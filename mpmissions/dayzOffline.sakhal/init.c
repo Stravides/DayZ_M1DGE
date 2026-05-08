@@ -131,7 +131,7 @@ class CustomMission: MissionServer
 		TStringArray donator_ids = {
 			"76561198015455963", // stravides
 			"76561198054709847", // hammersmith
-			"76561197972431045"  // RubMyMeat
+			"76561197972431045"  // User
 		};
 
 		bool IsAdmin = false;
