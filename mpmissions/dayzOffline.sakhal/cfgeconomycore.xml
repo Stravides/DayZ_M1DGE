@@ -68,6 +68,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 
 		<!-- External globals Files -->
 		<!-- External messages Files -->
+		<file name="welcomemessages.xml" type="messages" />
 		<!-- External economy Files -->
 
 <!--	AWAITING IMPLEMENTATION
