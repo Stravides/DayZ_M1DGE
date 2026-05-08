@@ -747,7 +747,7 @@
       <item name="SparkPlug" chance="1.0" />
     </attachments>
   </type>
-  
+
   <type name="Offroad_02">
     <attachments chance="1.00">
       <item name="Offroad_02_Wheel" chance="0.80" />
@@ -796,4 +796,52 @@
     </attachments>
   </type>
   
+
+  <type name="MDG_Hummer_RAC">
+    <attachments chance="1.00">
+      <item name="rag_hummer_wheel" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="rag_hummer_wheel" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="rag_hummer_wheel" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="rag_hummer_wheel" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="rag_hummer_wheel" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Trunk" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Hood" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Door_1" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Door_2" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Door_3" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="MDG_Hummer_RAC_Door_4" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="HeadlightH7" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="HeadlightH7" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="CarRadiator" chance="1" />
+    </attachments>
+    <attachments chance="1.00">
+      <item name="CarBattery" chance="1" />
+    </attachments>
+  </type>
 </spawnabletypes>
