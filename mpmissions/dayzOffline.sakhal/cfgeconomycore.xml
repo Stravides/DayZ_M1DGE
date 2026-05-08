@@ -44,12 +44,12 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_Zombies.xml" type="types" />
 <!-- 	MODS -->
 		<file name="types_Trader.xml" type="types" />
+		<file name="types_rag_hummer.xml" type="types" />
 		<file name="types_MDGHummers.xml" type="types" />
 		<file name="types_rag_atv.xml" type="types" />
 		<file name="types_rag_baja.xml" type="types" />
 		<file name="types_rag_derby_car.xml" type="types" />
 		<file name="types_rag_gaz69.xml" type="types" />
-		<file name="types_rag_hummer.xml" type="types" />
 		<file name="types_rag_jeep_willys.xml" type="types" />
 		<file name="types_rag_landrover.xml" type="types" />
 		<file name="types_rag_mtvr.xml" type="types" />
