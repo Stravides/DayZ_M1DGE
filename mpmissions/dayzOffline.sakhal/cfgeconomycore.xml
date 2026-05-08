@@ -62,6 +62,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="events_Loot.xml" type="events" />
 		<file name="events_Vehicles.xml" type="events" />
 		<file name="events_Zombies.xml" type="events" />
+		<file name="events_Other.xml" type="events" />
 <!-- 	MODS -->
 
 
