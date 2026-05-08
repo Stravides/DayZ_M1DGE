@@ -1,0 +1,77 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "TM_Wallet",
+            "m_LocalPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -117.25682830810547,
+                -0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "MoneyRuble100",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 73.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MoneyRuble1",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 2.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MoneyRuble50",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MoneyRuble25",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "MoneyRuble10",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

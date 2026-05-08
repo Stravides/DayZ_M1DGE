@@ -1,0 +1,77 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenCrate",
+            "m_LocalPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_LocalRotation": [
+                96.84683990478516,
+                0.09107352048158646,
+                -0.7584458589553833
+            ],
+            "m_Data": {
+                "m_Health": 400.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "TacticalBaconCan",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalBaconCan",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalBaconCan",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalBaconCan",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TacticalBaconCan",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

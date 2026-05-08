@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<randompresets>
+
+<!-- 	             VERSION DONUTS                    -->
+
+/* 
+		
+		This is a version for you to adapt to your server. 
+		I only tried to help by showing you where you can add the items 
+		and spawn them along with the zombies, but you can configure 
+		the percentage chance to your liking and place or remove the item 
+		wherever you want.
+
+*/
+
+<!--                        FARM ATTACHMENTS                         -->
+
+		<attachments chance="0.20" name="hatsFarm">
+				<item name="Ushanka_Black" chance="0.10" />
+				<item name="Ushanka_Blue" chance="0.10" />
+				<item name="Ushanka_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Black" chance="0.10" />
+				<item name="ZmijovkaCap_Blue" chance="0.10" />
+				<item name="ZmijovkaCap_Brown" chance="0.10" />
+				<item name="ZmijovkaCap_Green" chance="0.10" />
+				<item name="ZmijovkaCap_Red" chance="0.10" />
+
+				<!--     ADD TO HEAD HERE -->
+				<item name="Donuts_toolHead" chance="0.05" />
+				<item name="Donuts_butcherHead" chance="0.05" />
+				<item name="Donuts_arrowHead" chance="0.05" />
+
+		</attachments>
+
+		<attachments chance="0.1" name="bagsHunter">
+			   <item name="ArmyPouch_Beige" chance="0.35" />
+			   <item name="ArmyPouch_Green" chance="0.35" />
+			   <item name="CourierBag" chance="0.20" />
+			   <item name="HuntingBag" chance="0.10" />
+
+			<!--     ADD TO CHEST AND BACK HERE -->
+				<item name="Donuts_arrowChest" chance="0.05" />
+				<item name="Donuts_arrowBack" chance="0.05" />
+				<item name="Donuts_holyAxeChest" chance="0.05" />
+				<item name="Donuts_CudgelZombieBack" chance="0.05" />
+				<item name="Donuts_MaczetaZombieChest" chance="0.05" />
+
+		</attachments>
+
+<!--                             HUNTER ATTACHMENTS                 -->
+        <attachments chance="0.20" name="vestsHunter">
+			<item name="HuntingVest" chance="0.23" />
+			<item name="ChestHolster" chance="0.31" />
+
+			<!--     ADD TO VEST HERE -->
+			<item name="Donuts_HunterVestWolf" chance="0.23" />
+			<item name="Donuts_HunterVestBear" chance="0.23" />
+
+		</attachments>
+
+<!--                              VILLAGE ATTACHMENTS                    -->
+		<attachments chance="0.1" name="bagsVillage">
+				<item name="Slingbag_Black" chance="0.20" />
+				<item name="SlingBag_Gray" chance="0.20" />
+				<item name="SlingBag_Brown" chance="0.20" />
+				<item name="TaloonBag_Blue" chance="0.10" />
+				<item name="TaloonBag_Green" chance="0.10" />
+				<item name="TaloonBag_Orange" chance="0.10" />
+				<item name="TaloonBag_Violet" chance="0.10" />
+
+				<!--     ADD TO CHEST AND BACK HERE -->
+				<item name="Donuts_arrowChest" chance="0.08" />
+				<item name="Donuts_arrowBack" chance="0.08" />
+				<item name="Donuts_holyAxeChest" chance="0.08" />
+				<item name="Donuts_CudgelZombieBack" chance="0.05" />
+				<item name="Donuts_MaczetaZombieChest" chance="0.05" />
+
+		</attachments>
+ 
+<!--                          INDUSTRIAL ATTACHMENTS                    -->
+		<attachments chance="0.30" name="hatsIndustrial">
+				<item name="ConstructionHelmet_Blue" chance="0.10" />
+				<item name="ConstructionHelmet_Lime" chance="0.10" />
+				<item name="ConstructionHelmet_Orange" chance="0.10" />
+				<item name="ConstructionHelmet_Red" chance="0.10" />
+				<item name="ConstructionHelmet_White" chance="0.10" />
+				<item name="ConstructionHelmet_Yellow" chance="0.10" />
+				<item name="WeldingMask" chance="0.05" />
+
+				<!--     ADD TO HEAD HERE       -->
+				<item name="Donuts_toolHead" chance="0.10" />
+				<item name="Donuts_butcherHead" chance="0.10" />
+				<item name="Donuts_arrowHead" chance="0.10" />
+
+		</attachments>
+
+ 
+<!--                          VEST ARMY ATTACHMENTS                          -->
+		<attachments chance="0.20" name="vestsArmy">
+			<item name="UKAssVest_Black" chance="0.20" />
+			<item name="UKAssVest_Camo" chance="0.20" />
+			<item name="UKAssVest_Khaki" chance="0.2" />
+			<item name="UKAssVest_Olive" chance="0.2" />
+			<item name="SmershVest" chance="0.05" />
+
+			<!--     ADD TO CHEST AND BACK HERE -->
+			<item name="Donuts_arrowChest" chance="0.05" />
+			<item name="Donuts_arrowBack" chance="0.05" />
+			<item name="Donuts_holyAxeChest" chance="0.05" />
+			<item name="Donuts_CudgelZombieBack" chance="0.05" />
+			<item name="Donuts_MaczetaZombieChest" chance="0.05" />
+
+		</attachments>
+
+<!--                            POLICE ATTACHMENTS                   -->
+		<attachments chance="0.20" name="hatsPolice">
+				<item name="PoliceCap" chance="0.50" />
+
+				<!--     ADD TO HEAD HERE -->
+				<item name="Donuts_toolHead" chance="0.05" />
+				<item name="Donuts_butcherHead" chance="0.05" />
+				<item name="Donuts_arrowHead" chance="0.05" />
+
+		</attachments>
+
+		<attachments chance="0.80" name="vestsPolice">
+				<item name="PoliceVest" chance="0.60" />
+
+				<!--     ADD TO CHEST AND BACK HERE -->
+				<item name="Donuts_arrowChest" chance="0.10" />
+				<item name="Donuts_arrowBack" chance="0.10" />
+				<item name="Donuts_holyAxeChest" chance="0.10" />
+				<item name="Donuts_MaczetaZombieChest" chance="0.10" />
+
+		</attachments>
+
+<!--                       UNIVERSAL ATTACHMENTS                      -->
+		<attachments chance="0.20" name="hatsMotorbike">
+				<item name="MotoHelmet_Black" chance="0.10" />
+				<item name="MotoHelmet_Blue" chance="0.10" />
+				<item name="MotoHelmet_Green" chance="0.10" />
+				<item name="MotoHelmet_Grey" chance="0.10" />
+				<item name="MotoHelmet_Lime" chance="0.10" />
+				<item name="MotoHelmet_Red" chance="0.10" />
+				<item name="MotoHelmet_White" chance="0.10" />
+				<item name="DarkMotoHelmet_Black" chance="0.05" />
+				<item name="DarkMotoHelmet_Blue" chance="0.05" />
+				<item name="DarkMotoHelmet_Green" chance="0.05" />
+				<item name="DarkMotoHelmet_Grey" chance="0.05" />
+				<item name="DarkMotoHelmet_Lime" chance="0.05" />
+				<item name="DarkMotoHelmet_Red" chance="0.05" />
+				<item name="DarkMotoHelmet_White" chance="0.05" />
+
+				<!--     ADD TO HEAD HERE -->
+				<item name="Donuts_toolHead" chance="0.1" />
+				<item name="Donuts_butcherHead" chance="0.10" />
+				<item name="Donuts_arrowHead" chance="0.10" />
+
+		</attachments>
+
+<!--                                T1 ATTACHMENTS                              -->
+		<attachments chance="0.2" name="helmetsCommon_T1">
+				<item name="SkateHelmet_Black" chance="0.10" />
+				<item name="SkateHelmet_Blue" chance="0.10" />
+				<item name="SkateHelmet_Gray" chance="0.10" />
+				<item name="SkateHelmet_Green" chance="0.10" />
+				<item name="SkateHelmet_Red" chance="0.10" />
+
+				<!--     ADD TO HEAD HERE -->
+				<item name="Donuts_toolHead" chance="0.10" />
+				<item name="Donuts_butcherHead" chance="0.10" />
+				<item name="Donuts_arrowHead" chance="0.10" />
+
+		</attachments>
+
+		<attachments chance="0.2" name="hatsCommon_T1">
+				<item name="BoonieHat_Blue" chance="0.05" />
+				<item name="BoonieHat_Orange" chance="0.1" />
+				<item name="BoonieHat_Red" chance="0.1" />
+				<item name="RadarCap_Black" chance="0.05" />
+				<item name="RadarCap_Blue" chance="0.1" />
+				<item name="RadarCap_Brown" chance="0.05" />
+				<item name="RadarCap_Green" chance="0.1" />
+				<item name="RadarCap_Red" chance="0.1" />
+
+				<!--     ADD TO HEAD HERE -->
+				<item name="Donuts_toolHead" chance="0.1" />
+				<item name="Donuts_butcherHead" chance="0.10" />
+				<item name="Donuts_arrowHead" chance="0.10" />
+
+		</attachments>
+
+		<attachments chance="0.1" name="backpacks_T1">
+				<item name="Slingbag_Black" chance="0.1" />
+				<item name="Slingbag_Brown" chance="0.1" />
+				<item name="Slingbag_Gray" chance="0.1" />
+				<item name="CourierBag" chance="0.1" />
+				<item name="FurCourierBag" chance="0.1" />
+				<item name="CanvasBag_Olive" chance="0.1" />
+				<item name="DuffelBagSmall_Green" chance="0.08" />
+				<item name="TaloonBag_Blue" chance="0.08" />
+				<item name="TaloonBag_Green" chance="0.08" />
+				<item name="TaloonBag_Orange" chance="0.08" />
+				<item name="TaloonBag_Violet" chance="0.08" />
+
+				<!--     ADD TO CHEST AND BACK HERE -->
+				<item name="Donuts_arrowChest" chance="0.08" />
+				<item name="Donuts_arrowBack" chance="0.08" />
+				<item name="Donuts_holyAxeChest" chance="0.08" />
+				<item name="Donuts_CudgelZombieBack" chance="0.05" />
+				<item name="Donuts_MaczetaZombieChest" chance="0.05" />
+
+		</attachments>
+
+        <!-- FOR Waldo -->
+		<attachments chance="1.0" name="hatsWaldo">
+				<item name="Donuts_BoonieHat_Waldo" chance="0.80" />
+		</attachments>
+
+		/* 
+		
+		This is a version for you to adapt to your server. 
+		I only tried to help by showing you where you can add the items 
+		and spawn them along with the zombies, but you can configure 
+		the percentage chance to your liking and place or remove the item 
+		wherever you want.
+
+		*/
+
+</randompresets>

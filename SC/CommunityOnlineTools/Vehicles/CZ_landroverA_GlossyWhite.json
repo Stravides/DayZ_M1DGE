@@ -1,0 +1,22 @@
+{
+    "VehicleName": "CZ_landroverA_GlossyWhite",
+    "DisplayName": "",
+    "Parts": [
+        "LANDoors_Driver_GlossyWhite",
+        "LANDoors_CoDriver_GlossyWhite",
+        "LANDoors_Hood_GlossyWhite",
+        "LANCargo1Doors_GlossyWhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "lr_wheel_glossywhite",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Shovel",
+        "CanisterGasoline"
+    ]
+}

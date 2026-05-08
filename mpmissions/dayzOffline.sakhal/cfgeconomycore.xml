@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+
+
+	<ce folder="db">
+<!-- External spawnabletypes Files -->
+ 		<file name="spawnabletypes_Bags.xml" type="spawnabletypes" /> 
+		<file name="spawnabletypes_Clothes.xml" type="spawnabletypes" /> 
+		<file name="spawnabletypes_Other.xml" type="spawnabletypes" /> 
+		<file name="spawnabletypes_Vehicles.xml" type="spawnabletypes" /> 
+		<file name="spawnabletypes_Weapons.xml" type="spawnabletypes" /> 
+
+
+<!-- External Types Files -->
+		<file name="types_Ammo.xml" type="types" />
+		<file name="types_Attachements.xml" type="types" />
+		<file name="types_Base.xml" type="types" />
+		<file name="types_CivClothing.xml" type="types" />				
+		<file name="types_Components.xml" type="types" />
+		<file name="types_Containers.xml" type="types" />
+		<file name="types_Food.xml" type="types" />
+		<file name="types_Growing.xml" type="types" />
+		<file name="types_Flags.xml" type="types" />
+		<file name="types_Medical.xml" type="types" />
+		<file name="types_MilClothing.xml" type="types" />	
+		<file name="types_Tools.xml" type="types" />
+		<file name="types_Vehicles.xml" type="types" />
+		<file name="types_Weapons.xml" type="types" />
+		<file name="types_Zombies.xml" type="types" />
+<!-- 	MODS -->
+		<file name="types_Trader.xml" type="types" />
+		<file name="types_MDGHummers.xml" type="types" />
+		<file name="types_rag_atv.xml" type="types" />
+		<file name="types_rag_baja.xml" type="types" />
+		<file name="types_rag_derby_car.xml" type="types" />
+		<file name="types_rag_gaz69.xml" type="types" />
+		<file name="types_rag_hummer.xml" type="types" />
+		<file name="types_rag_jeep_willys.xml" type="types" />
+		<file name="types_rag_landrover.xml" type="types" />
+		<file name="types_rag_mtvr.xml" type="types" />
+		<file name="types_rag_schoolbus.xml" type="types" />
+		<file name="types_rag_zil_130.xml" type="types" />
+		<file name="types_MIDGEClothing.xml" type="types" />
+		
+<!-- External Events Files -->
+		<file name="events_Animals.xml" type="events" />
+		<file name="events_Loot.xml" type="events" />
+		<file name="events_Vehicles.xml" type="events" />
+		<file name="events_Zombies.xml" type="events" />
+<!-- 	MODS -->
+
+
+		<!-- External globals Files -->
+		<!-- External messages Files -->
+		<!-- External economy Files -->
+
+<!--	AWAITING IMPLEMENTATION
+--> 
+
+<!--    REMOVED MODS
+		<file name="spawnabletypes_Zombies.xml" type="spawnabletypes" />  Removed as now in PVZMOD 
+		<file name="types_UKPFlags.xml" type="types" />
+		<file name="types_DonutsZombies.xml" type="types" /> 
+		<file name="events_DonutsZombies.xml" type="events" />
+ -->
+<!--		<file name="spawnabletypes_xmas.xml" type="spawnabletypes" /> 
+				<file name="spawnabletypes_DonutsZombies.xml" type="spawnabletypes" />
+-->
+
+
+	</ce>
+	<!-- -->
+
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+</economycore>

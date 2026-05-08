@@ -1,0 +1,67 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "WoodenCrate",
+            "m_LocalPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_LocalRotation": [
+                106.97712707519531,
+                0.0,
+                -0.0
+            ],
+            "m_Data": {
+                "m_Health": 400.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Bark_Birch",
+                    "m_Data": {
+                        "m_Health": 25.0,
+                        "m_Quantity": 8.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Firewood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Firewood",
+                    "m_Data": {
+                        "m_Health": 500.0,
+                        "m_Quantity": 20.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Bark_Birch",
+                    "m_Data": {
+                        "m_Health": 25.0,
+                        "m_Quantity": 8.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        }
+    ]
+}

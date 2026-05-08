@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<events>
+  <event name="VehicleCivilianSedan">
+    <nominal>4</nominal>
+    <min>2</min>
+    <max>5</max>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Black" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="CivilianSedan_Wine" />
+    </children>
+  </event>
+  <event name="VehicleHatchback02">
+    <nominal>4</nominal>
+    <min>2</min>
+    <max>5</max>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Hatchback_02_Blue" />
+    </children>
+  </event>
+  <event name="VehicleOffroadHatchback">
+    <nominal>4</nominal>
+    <min>2</min>
+    <max>5</max>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_Blue" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="OffroadHatchback_White" />
+    </children>
+  </event>
+  <event name="VehicleSedan02">
+    <nominal>4</nominal>
+    <min>2</min>
+    <max>5</max>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Grey" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Sedan_02_Red" />
+    </children>
+  </event>
+  <event name="VehicleTruck01">
+    <nominal>4</nominal>
+    <min>2</min>
+    <max>5</max>
+    <lifetime>300</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Blue" />
+      <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange" />
+    </children>
+  </event>
+    <event name="VehicleBoat">
+    <nominal>14</nominal>
+    <min>11</min>
+    <max>14</max>
+    <lifetime>6000</lifetime>
+    <restock>0</restock>
+    <saferadius>500</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>200</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Blue" />
+      <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange" />
+    </children>
+  </event>
+  <event name="VehicleMilitaryBoat">
+    <nominal>8</nominal>
+    <min>6</min>
+    <max>8</max>
+    <lifetime>6000</lifetime>
+    <restock>0</restock>
+    <saferadius>1000</saferadius>
+    <distanceradius>500</distanceradius>
+    <cleanupradius>1000</cleanupradius>
+    <flags deletable="0" init_random="0" remove_damaged="1" />
+    <position>fixed</position>
+    <limit>mixed</limit>
+    <active>1</active>
+    <children>
+      <child lootmax="0" lootmin="0" max="8" min="4" type="Boat_01_Black" />
+      <child lootmax="0" lootmin="0" max="8" min="4" type="Boat_01_Camo" />
+    </children>
+  </event>
+</events>

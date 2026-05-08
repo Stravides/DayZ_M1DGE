@@ -1,0 +1,11 @@
+type = "mod";
+name = "TruckFixV2";
+picture = "TruckFixV2/data/logo_m.paa";
+logoSmall = "TruckFixV2/data/logo_ss.paa";
+logo = "TruckFixV2/data/logo_s.paa";
+logoOver = "TruckFixV2/data/logo_s.paa";
+tooltip = "Truck Fix Ver 2.0";
+overview = "Truck Fix Ver 2.0 - This mod is to make improvements to the Vanilla DayZ Truck_01";
+action = "https://steamcommunity.com/sharedfiles/filedetails/?id=2811159859";
+author = "Mixxy";
+version = "2.0";

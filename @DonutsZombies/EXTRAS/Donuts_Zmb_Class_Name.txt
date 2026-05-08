@@ -1,0 +1,123 @@
+NEW 12 UNITS ZOMBIES UPDATE 30/05/2026
+
+	Donuts_villager_Female_No_Legs
+	Donuts_villagerII_old_F
+	Donuts_villagerIII_old_F
+	Donuts_villager_Male_No_Legs
+	Donuts_villagerI_old_M
+	Donuts_villagerII_old_M
+	Donuts_villagerIII_old_M
+	Donuts_jacket_No_Legs
+	Donuts_jacket_Chest
+	Donuts_JacketII_beige
+	Donuts_Hermit_Horror_Chest
+	Donuts_prisoner_Waldo
+
+
+Donuts_ZmbM_Doctor_No_Arms 
+Donuts_ZmbM_Doctor_No_Arms2 
+Donuts_Armyofficer_No_Arms 
+Donuts_ZmbM_Doctor_No_Legs 
+Donuts_Firefighter_No_Legs 
+Donuts_Firefighter_Ritual 
+Donuts_Bluecollar_No_Legs 
+Donuts_Fisherman_Ritual 
+Donuts_Farmer_Ritual 
+Donuts_FarmerI 
+Donuts_Clerk 
+Donuts_Ritual 
+Donuts_ZmbM_ChefNoTshirt 
+Donuts_Zmb_OldMan 
+Donuts_Zmb_OldManI 
+Donuts_Zmb_OldManII 
+Donuts_ZmbM_journalist 
+Donuts_ZmbM_journalistII 
+Donuts_ZmbM_journalistIII 
+Donuts_ZmbF_MilkMaidOld 
+Donuts_ZmbF_MilkMaidOldI 
+Donuts_ZmbF_MilkMaidOldII 
+Donuts_ZmbF_MilkMaidOldIII 
+Donuts_Clown 
+Donuts_ZmbM_ClownII 
+Donuts_Devol 
+Donuts_ZmbM_Chef 
+Donuts_NBC  
+Donuts_NBCI  
+Donuts_Zmb_Padre 
+Donuts_Zmb_PadreI 
+Donuts_Zmb_PadreII 
+Donuts_Zmb_DoctorF 
+Donuts_Zmb_DoctorFI 
+Donuts_Zmb_Clerk 
+Donuts_CitizenF 
+Donuts_CitizenFI 
+Donuts_Zmb_HunterI 
+Donuts_Zmb_FireFight 
+Donuts_Zmb_FireFightI 
+Donuts_Zmb_Constru 
+Donuts_Zmb_ConstruII 
+Donuts_Zmb_ConstruIII 
+Donuts_jogger 
+Donuts_joggerII  
+Donuts_doctorIII 
+Donuts_farmerIV  
+Donuts_farmerIII 
+Donuts_fishermanIII 
+Donuts_hermitIII 
+Donuts_Zmb_usSoldierIII  
+Donuts_Zmb_usSoldierIV  
+Donuts_Zmb_HikerIII 
+Donuts_Zmb_ParamedicIII 
+Donuts_Zmb_ParamedicIV 
+Donuts_Zmb_CoverallsIII 
+Donuts_Zmb_CoverallsIV 
+Donuts_Zmb_CoverallsV 
+Donuts_Zmb_CitizenIII  
+Donuts_Zmb_CitizenIV 
+Donuts_policewomanIII 
+Donuts_policewomanIV 
+Donuts_policewomanV 
+Donuts_policemanIII 
+Donuts_policemanIV 
+Donuts_policemanV 
+Donuts_paramedicIII 
+Donuts_paramedicIV  
+Donuts_paramedicV 
+Donuts_soldier_normalIV  
+Donuts_soldier_normalV  
+Donuts_soldier_normalVI  
+Donuts_soldier_normalIII 
+Donuts_Zmb_HunterIII
+Donuts_Zmb_HunterIV
+Donuts_Zmb_HunterV
+Donuts_HunterF
+Donuts_HunterFI
+Donuts_HunterFII
+Donuts_policewomanCherno
+Donuts_policewomanChernoII
+Donuts_policewomanClothesBlack
+Donuts_policewomanClothesBlackII
+Donuts_policewomanClothesCamufle
+Donuts_policemanCherno
+Donuts_policemanChernoII
+Donuts_policemanChernoClothesBlack
+Donuts_policemanChernoClothesBlackII
+Donuts_policemanClothesCamufle
+Donuts_policemanClothesCamufleII
+
+* VEST HUNTER 
+Donuts_HunterVestWolf
+Donuts_HunterVestBear
+
+*UPDATE 30/04/2026
+Donuts_BoonieHat_Waldo
+
+* ATTACHMENTS FOR THE BODIES
+Donuts_toolHead
+Donuts_butcherHead
+Donuts_arrowHead
+Donuts_arrowChest
+Donuts_arrowBack
+Donuts_holyAxeChest
+Donuts_CudgelZombieBack
+Donuts_MaczetaZombieChest

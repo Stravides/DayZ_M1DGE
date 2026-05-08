@@ -1,0 +1,68 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "TireRepairKit",
+            "m_LocalPosition": [
+                -0.01171875,
+                -0.0212249755859375,
+                0.0166015625
+            ],
+            "m_LocalRotation": [
+                162.4503173828125,
+                -89.96572875976563,
+                35.463443756103519
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "PipeWrench",
+            "m_LocalPosition": [
+                0.0361328125,
+                -0.006806373596191406,
+                -0.0498046875
+            ],
+            "m_LocalRotation": [
+                29.024017333984376,
+                -0.000013668151950696484,
+                -90.00000762939453
+            ],
+            "m_Data": {
+                "m_Health": 400.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "EpoxyPutty",
+            "m_LocalPosition": [
+                -0.02392578125,
+                0.0,
+                0.0341796875
+            ],
+            "m_LocalRotation": [
+                -17.549678802490236,
+                89.96572875976563,
+                -116.7922134399414
+            ],
+            "m_Data": {
+                "m_Health": 50.0,
+                "m_Quantity": 100.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        }
+    ]
+}

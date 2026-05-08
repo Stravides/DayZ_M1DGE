@@ -1,0 +1,17 @@
+== TruckFixV2 ==
+
+UPDATED FOR DayZ v1.19
+
+This mod is to make improvements to the Vanilla DayZ Truck_01 "M3S"
+
+* Improved Speed
+* Better Gear Ratios (8 Gears)
+* Modified Engine Torque and Horse Power
+
+To Do:
+* Improve Suspension
+* Improve Braking
+* Change Storage Sizes
+
+Cheers...
+Mixxy

@@ -1,0 +1,599 @@
+{
+    "m_IsLocalPosition": 1,
+    "m_Items": [
+        {
+            "m_Classname": "TTsKOJacket_Camo",
+            "m_LocalPosition": [
+                0.0,
+                -0.002410888671875,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 180.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Marmalade",
+                    "m_Data": {
+                        "m_Health": 36.180362701416019,
+                        "m_Quantity": 400.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 4
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "CombatKnife",
+                    "m_Data": {
+                        "m_Health": 141.32981872558595,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "BandageDressing",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 4.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "SodaCan_Pipsi",
+                    "m_Data": {
+                        "m_Health": 28.406042098999025,
+                        "m_Quantity": 330.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 4
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Plum",
+                    "m_Data": {
+                        "m_Health": 6.867170333862305,
+                        "m_Quantity": 75.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 4
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "VehicleKeyRed",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "TTSKOPants",
+            "m_LocalPosition": [
+                0.0,
+                -0.0020618438720703127,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 170.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_STANAG_60Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "TM_Wallet",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "MoneyRuble100",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 127.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "MoneyRuble50",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 1.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "MoneyRuble10",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 2.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        },
+                        {
+                            "m_Classname": "MoneyRuble1",
+                            "m_Data": {
+                                "m_Health": 100.0,
+                                "m_Quantity": 4.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "m_Classname": "MilitaryBoots_Redpunk",
+            "m_LocalPosition": [
+                0.0,
+                -0.0050201416015625,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 178.49156188964845,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "M9A1_Bayonet",
+                    "m_Data": {
+                        "m_Health": 150.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "M4A1_Black",
+            "m_LocalPosition": [
+                0.0,
+                -0.027776718139648439,
+                0.0
+            ],
+            "m_LocalRotation": [
+                33.778160095214847,
+                -89.45069885253906,
+                -141.06385803222657
+            ],
+            "m_Data": {
+                "m_Health": 200.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Mag_STANAGCoupled_30Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M4_T3NRDSOptic",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "M4_OEBttstck",
+                    "m_Data": {
+                        "m_Health": 200.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M4_RISHndgrd",
+                    "m_Data": {
+                        "m_Health": 250.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "UniversalLight",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "m_Classname": "MDG_AssaultBag",
+            "m_LocalPosition": [
+                0.0,
+                -0.11969757080078125,
+                0.0
+            ],
+            "m_LocalRotation": [
+                33.778160095214847,
+                -89.45069885253906,
+                -141.06385803222657
+            ],
+            "m_Data": {
+                "m_Health": 170.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "Compass",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "GPSReceiver",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "Hatchet",
+                    "m_Data": {
+                        "m_Health": 150.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Mag_STANAG_60Rnd",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "Shemag_Green",
+            "m_LocalPosition": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 100.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "TacticalGloves_Black",
+            "m_LocalPosition": [
+                0.0,
+                -0.0044307708740234379,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 165.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": []
+        },
+        {
+            "m_Classname": "HighCapacityVest_Black",
+            "m_LocalPosition": [
+                0.0,
+                -0.0020618438720703127,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 120.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "RGD5Grenade",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M67Grenade",
+                    "m_Data": {
+                        "m_Health": 50.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M18SmokeGrenade_Red",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "M18SmokeGrenade_Red_Contaminated",
+                    "m_Data": {
+                        "m_Health": 20.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Heatpack",
+                    "m_Data": {
+                        "m_Health": 19.78530502319336,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 25
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "MilitaryBelt",
+            "m_LocalPosition": [
+                0.0,
+                -0.008627891540527344,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 110.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NylonKnifeSheath",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "PlateCarrierHolster",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": []
+                },
+                {
+                    "m_Classname": "Canteen",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 1000.0,
+                        "m_LiquidType": 512,
+                        "m_Temperature": -5
+                    },
+                    "m_Attachments": []
+                }
+            ]
+        },
+        {
+            "m_Classname": "MDG_Mich2001_BlackCamo",
+            "m_LocalPosition": [
+                0.0,
+                -0.00461578369140625,
+                0.0
+            ],
+            "m_LocalRotation": [
+                -107.283935546875,
+                -0.42661696672439577,
+                -0.34661582112312319
+            ],
+            "m_Data": {
+                "m_Health": 80.0,
+                "m_Quantity": 0.0,
+                "m_LiquidType": 0,
+                "m_Temperature": 0
+            },
+            "m_ConstructionParts": [],
+            "m_Attachments": [
+                {
+                    "m_Classname": "NVGoggles",
+                    "m_Data": {
+                        "m_Health": 100.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                },
+                {
+                    "m_Classname": "UniversalLight",
+                    "m_Data": {
+                        "m_Health": 70.0,
+                        "m_Quantity": 0.0,
+                        "m_LiquidType": 0,
+                        "m_Temperature": 0
+                    },
+                    "m_Attachments": [
+                        {
+                            "m_Classname": "Battery9V",
+                            "m_Data": {
+                                "m_Health": 20.0,
+                                "m_Quantity": 50.0,
+                                "m_LiquidType": 0,
+                                "m_Temperature": 0
+                            },
+                            "m_Attachments": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+.autoExclude
+ban.txt
+dayz.gproj
+DayZServer_x64.exe
+steamclient64.dll
+steam_api64.dll
+steam_appid.txt
+tier0_s64.dll
+vstdlib_s64.dll
+whitelist.txt
+*.lck
+*.tmp
+*.log
+*.log.gz
+temp
+logs

@@ -1,0 +1,25 @@
+{
+    "VehicleName": "rag_landrover_110",
+    "DisplayName": "",
+    "Parts": [
+        "rag_landrover_110_hood",
+        "rag_landrover_110_driverdoor",
+        "rag_landrover_110_codriverdoor",
+        "rag_landrover_110_cargo1",
+        "rag_landrover_110_cargo2",
+		"rag_landrover_110_cargo3",
+        "rag_landrover_110_wheel",
+        "rag_landrover_110_wheel",
+        "rag_landrover_110_wheel",
+        "rag_landrover_110_wheel",
+        "rag_landrover_110_wheel",
+        "CarBattery",
+        "CarRadiator",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7",
+        "Shovel",
+        "SeaChest",
+        "CanisterGasoline"
+    ]
+}

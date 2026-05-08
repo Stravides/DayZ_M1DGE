@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<spawnabletypes>
+  <type name="AssaultBag_Ttsko">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="AssaultBag_Black">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="AssaultBag_Green">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="DryBag_Orange">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="DryBag_Yellow">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="DryBag_Blue">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="DryBag_Green">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="DryBag_Black">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="DryBag_Red">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="HuntingBag">
+    <cargo preset="foodVillage" />
+    <cargo preset="toolsIndustrial" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="MountainBag_Red">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="MountainBag_Blue">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="MountainBag_Orange">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="MountainBag_Green">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="SmershBag">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="ChildBag_Green">
+    <cargo preset="foodVillage" />
+  </type>
+  <type name="ChildBag_Red">
+    <cargo preset="foodVillage" />
+  </type>
+  <type name="ChildBag_Blue">
+    <cargo preset="foodVillage" />
+  </type>
+  <type name="TaloonBag_Blue">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="TaloonBag_Green">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="TaloonBag_Orange">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="TaloonBag_Violet">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="TortillaBag">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="FirstAidKit">
+    <tag name="shelves" />
+    <cargo chance="1">
+      <item name="BandageDressing" />
+    </cargo>
+    <cargo chance="0.8">
+      <item name="Thermometer" />
+    </cargo>
+    <cargo chance="0.8">
+      <item name="StartKitIV" />
+    </cargo>
+    <cargo chance="0.8">
+      <item name="BloodBagEmpty" />
+    </cargo>
+    <cargo chance="0.8">
+      <item name="BloodTestKit" />
+    </cargo>
+  </type>
+  <type name="Bear_Beige">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Bear_Dark">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Bear_Pink">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+  <type name="Bear_White">
+    <cargo chance="0.00">
+      <item name="Paper" chance="0.50" />
+      <item name="Rag" chance="0.50" />
+    </cargo>
+  </type>
+    <type name="SmallProtectorCase">
+    <hoarder />
+  </type>
+  <type name="ScientificBriefcase">
+    <damage min="0.0" max="0.0" />
+    <cargo chance="1.0">
+      <item name="FilteringBottle" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="FilteringBottle" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="Iceaxe" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="TetracyclineAntibiotics" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="ChelatingTablets" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="GPSReceiver" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="GlowPlug" />
+    </cargo>
+    <cargo chance="1.0">
+      <item name="Battery9V" />
+    </cargo>
+    <hoarder />
+  </type>
+  <type name="UndergroundStash">
+    <hoarder />
+  </type>
+  <type name="WoodenCrate">
+    <hoarder />
+  </type>
+  <type name="ScientificBriefcase">
+    <damage min="0.1" max="0.1" />
+  </type>
+  <type name="ScientificBriefcaseKeys">
+    <damage min="0.0" max="0.0" />
+  </type>
+  <type name="ShippingContainerKeys_Blue">
+    <damage min="0.0" max="0.0" />
+  </type>
+  <type name="ShippingContainerKeys_Yellow">
+    <damage min="0.0" max="0.0" />
+  </type>
+  <type name="ShippingContainerKeys_Red">
+    <damage min="0.0" max="0.0" />
+  </type>
+  <type name="ShippingContainerKeys_Orange">
+    <damage min="0.0" max="0.0" />
+  </type>
+  <type name="AssaultBag_Winter">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="CoyoteBag_Brown">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="CoyoteBag_Green">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="CoyoteBag_Winter">
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="TortillaBag_Winter">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="ArmyPouch_Beige">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="ArmyPouch_Black">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="ArmyPouch_Camo">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="ArmyPouch_Green">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixHunter" />
+  </type>
+  <type name="CanvasBag_Olive">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="CanvasBag_Medical">
+    <cargo chance="0.6">
+      <item name="BandageDressing" />
+    </cargo>
+    <cargo chance="0.2">
+      <item name="IodineTincture" />
+    </cargo>
+    <cargo chance="0.2">
+      <item name="TetracyclineAntibiotics" />
+    </cargo>
+    <cargo chance="0.2">
+      <item name="VitaminBottle" />
+    </cargo>
+  </type>
+  <type name="Slingbag_Black">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="SlingBag_Gray">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="SlingBag_Brown">
+    <cargo preset="foodVillage" />
+    <cargo preset="mixVillage" />
+  </type>
+  <type name="HipPack_Black">
+    <cargo chance="0.6">
+      <item name="Zagorky" />
+    </cargo>
+    <cargo chance="0.4">
+      <item name="ChernarusMap" />
+    </cargo>
+  </type>
+  <type name="HipPack_Green">
+    <cargo chance="0.6">
+      <item name="Zagorky" />
+    </cargo>
+    <cargo chance="0.4">
+      <item name="ChernarusMap" />
+    </cargo>
+  </type>
+  <type name="HipPack_Medical">
+    <cargo chance="0.6">
+      <item name="BandageDressing" />
+    </cargo>
+    <cargo chance="0.6">
+      <item name="VitaminBottle" />
+    </cargo>
+  </type>
+  <type name="HipPack_Party">
+    <cargo chance="0.02">
+      <item name="Derringer_Pink" />
+    </cargo>
+  </type>
+  <type name="DuffelBagSmall_Camo">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="DuffelBagSmall_Medical">
+    <cargo chance="0.8">
+      <item name="BandageDressing" />
+    </cargo>
+    <cargo chance="0.15">
+      <item name="TetracyclineAntibiotics" />
+    </cargo>
+    <cargo chance="0.01">
+      <item name="AntiChemInjector" />
+    </cargo>
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="DuffelBagSmall_Green">
+    <cargo preset="foodArmy" />
+    <cargo preset="mixArmy" />
+  </type>
+  <type name="AmmoBox">
+    <cargo chance="0.20">
+      <item name="AmmoBox_9x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.20">
+      <item name="AmmoBox_9x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.10">
+      <item name="AmmoBox_9x39AP_20Rnd" />
+    </cargo>
+    <cargo chance="0.10">
+      <item name="AmmoBox_9x39AP_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_308Win_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_308Win_20Rnd" />
+    </cargo>
+    <cargo chance="0.15">
+      <item name="AmmoBox_308WinTracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.15">
+      <item name="AmmoBox_308WinTracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_762x54_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_762x54_20Rnd" />
+    </cargo>
+    <cargo chance="0.15">
+      <item name="AmmoBox_762x54Tracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.15">
+      <item name="AmmoBox_762x54Tracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_545x39Tracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_545x39Tracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.5">
+      <item name="AmmoBox_762x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.5">
+      <item name="AmmoBox_762x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.5">
+      <item name="AmmoBox_762x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.5">
+      <item name="AmmoBox_762x39_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_762x39Tracer_20Rnd" />
+    </cargo>
+    <cargo chance="0.25">
+      <item name="AmmoBox_762x39Tracer_20Rnd" />
+    </cargo>
+  </type>
+
+
+</spawnabletypes>

@@ -1,0 +1,51 @@
+{
+    "Name": "Admin Stuff",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "admin_Hatchet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AdminSet_BallisticHelmet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AdminSet_AssaultBag",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AdminSet_HighCapVest",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AdminSet_M65Jacket",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MoneyRuble100",
+            "NumberOfStacks": 50,
+            "StackSize": 100
+        },
+        {
+            "ItemName": "AdminSet_CargoPants",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MCK_MasterKey",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MCK_ResetKey",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

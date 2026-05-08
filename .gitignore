@@ -1,0 +1,25 @@
+# Ignore specific file
+
+# Ignore any file named config.json everywhere
+
+# Ignore a folder and all its contents
+addons/
+appcache/
+Backup Files/
+battleye/
+DayZServerData/
+docs/
+dta/
+keys/
+logs/
+server_manager/
+steamapps/
+
+# Ignore by extension
+*.RPT
+*.ADM
+*.log
+*.mdmp
+*.tmp
+*.dll
+*.lck

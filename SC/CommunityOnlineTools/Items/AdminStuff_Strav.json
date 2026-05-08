@@ -1,0 +1,106 @@
+{
+    "Name": "AdminStuff_Strav",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "admin_Hatchet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_Mich2001_BlackCamo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "TacticalGloves_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Katana_mung",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_CargoPants",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "AD_ACOG_RMR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_Strav_M65Jacket",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Battery9V",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MoneyRuble100",
+            "NumberOfStacks": 10,
+            "StackSize": 500
+        },
+		{
+            "ItemName": "MilitaryBoots_Redpunk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2FNFAL",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "A2FNFAL_Magazine",
+            "NumberOfStacks": 3,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "PistolSuppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "Mag_Deagle_9rnd",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "Deagle_Gold",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "PistolOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MCK_MasterKey",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MCK_ResetKey",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

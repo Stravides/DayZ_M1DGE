@@ -1,0 +1,14 @@
+{
+    "whitelistedObjects": [
+        "Land_Grass",
+        "Land_Stone",
+        "Land_Dirt",
+        "Land_Sand",
+        "Land_Gravel",
+        "ClutterCutter",
+        "Particle",
+        "EffectSound",
+        "Land_Underground",
+        "Terrain"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Name": "PVP Stuff",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "BDUJacket",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "BDUPants",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "ACOGOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M4SPR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2M4SPR_Magazine",
+            "NumberOfStacks": 6,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "TacticalBaconCan_Opened",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "BandageDressing",
+            "NumberOfStacks": 3,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "SodaCan_Pipsi",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Msp_OldLocker_Green_Kit",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "MilitaryBoots_Redpunk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

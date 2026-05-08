@@ -1,0 +1,101 @@
+{
+    "Name": "AdminSniper_Woodland",
+    "ContainerClassName": "SeaChest",
+    "Items": [
+        {
+            "ItemName": "GhillieSuit_Woodland",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "GhillieHood_Woodland",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "GhillieSuitAtt_Woodland",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_Cargopants_BlackCamo_co",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_BlackCamo_M65Jacket",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "UKP_Mich2001_BlackCamo",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "NVGoggles",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "BalaclavaMask_Green",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "TacticalGloves_Black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "Battery9V",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "MilitaryBoots_Redpunk",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "PistolSuppressor",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "Mag_Deagle_9rnd",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "Deagle_Gold",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "PistolOptic",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+		{
+            "ItemName": "A2Suppressor",
+            "NumberOfStacks": 2,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AD_SpecterDR",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2WM110_black",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "A2WM110_mag",
+            "NumberOfStacks": 5,
+            "StackSize": 1
+        }		
+    ]
+}

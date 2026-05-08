@@ -1,0 +1,16 @@
+The way this mod works is the cross is created and is treated as persistent because of these entries you are going to move over. 
+
+Simply paste this into your types.xml file while maintaining the format of it, and adjust the lifetime values, in seconds, as you wish. The current defaults I have set up is 5 minutes for any crosses created on the coast, and 25 minutes for all others. These will persist through server restarts too!
+
+Not A Banana#9930 on discord for any inquiries 
+
+UPDATE: Previously "DiedOnCoastCross" was determined by specific x and y coordinates to determine if you were on the coast. This meant the mod only really worked correctly on Chernarus. Now, I have moved to player survived time. If you die within first 30 minutes of your life, the coast cross will spawn
+with the low lifetime value. Over 30 minutes, normal cross. 
+    <type name="GraveCross">
+        <lifetime>1500</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>	
+	<type name="DiedOnCoastCross">
+        <lifetime>300</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+    </type>	

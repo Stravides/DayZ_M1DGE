@@ -1,0 +1,70 @@
+{
+"m_SpawnLocations": [
+{
+"LocationName": "South Sakhal 1",
+"SpawnCordinate": "10261.000000 0 6329.100098",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "South Sakhal 2",
+"SpawnCordinate": "12828.099609 0 7987.759766",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "East Sakhal 1",
+"SpawnCordinate": "14498.400391 0 9851.459961",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "NE Sakhal Docks",
+"SpawnCordinate": "13643.200195 0 11703.299805",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "North Sakhal",
+"SpawnCordinate": "9692.280273 0 13493.70019",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "NW Sakhal",
+"SpawnCordinate": "6421.629883 0 12756.500000",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 1
+},
+{
+"LocationName": "Quarry",
+"SpawnCordinate": "12096.799805 0 10260.200195",
+"SpawnRadius": 1000,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+},
+{
+"LocationName": "BaseSpawn",
+"SpawnCordinate": "0 0 0",
+"SpawnRadius": 1,
+"AllowBodyBlock": 1,
+"BodyBlockDistance": 3000,
+"BodyBlockTimer": 20
+}
+],
+"AllowBaseSpawn": 1,
+"BaseSpawnItemClassname": "TerritoryFlag"
+}
