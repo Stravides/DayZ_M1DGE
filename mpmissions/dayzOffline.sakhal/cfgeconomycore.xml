@@ -73,15 +73,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 --> 
 
 <!--    REMOVED MODS
-		<file name="spawnabletypes_Zombies.xml" type="spawnabletypes" />  Removed as now in PVZMOD 
-		<file name="types_UKPFlags.xml" type="types" />
-		<file name="types_DonutsZombies.xml" type="types" /> 
-		<file name="events_DonutsZombies.xml" type="events" />
- -->
-<!--		<file name="spawnabletypes_xmas.xml" type="spawnabletypes" /> 
-				<file name="spawnabletypes_DonutsZombies.xml" type="spawnabletypes" />
--->
 
+ -->
 
 	</ce>
 	<!-- -->
@@ -94,7 +87,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="dyn_dmax" value="5" />
 		<default name="log_ce_loop" value="false"/>
 		<default name="log_ce_dynamicevent" value="false"/>
-		<default name="log_ce_vehicle" value="false"/>
+		<default name="log_ce_vehicle" value="true"/>
 		<default name="log_ce_lootspawn" value="false"/>
 		<default name="log_ce_lootcleanup" value="false"/>
 		<default name="log_ce_lootrespawn" value="false"/>
