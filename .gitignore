@@ -1,13 +1,16 @@
 # Ignore specific file
 
 # Ignore any file named config.json everywhere
+cache.ch
 
 # Ignore a folder and all its contents
-_CommonRedist
+_CommonRedist/
+mpmissions/dayzOffline.sakhal/storage_1/
 addons/
 appcache/
 Backup Files/
 battleye/
+config/
 DayZServerData/
 docs/
 dta/
