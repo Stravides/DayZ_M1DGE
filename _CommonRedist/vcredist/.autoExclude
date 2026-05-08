@@ -1,7 +1,0 @@
-.autoExclude
-*.lck
-*.tmp
-*.log
-*.log.gz
-temp
-logs

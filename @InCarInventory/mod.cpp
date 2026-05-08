@@ -1,9 +1,0 @@
-name = "InCarInventory";
-picture = "";
-logo = "";
-logoOver = "";
-tooltip = "Access inventory in vehicles";
-overview = "Allows players to open and manage inventory while seated inside vehicles.";
-action = "";
-author = "Deagles";
-version = "1.0";
