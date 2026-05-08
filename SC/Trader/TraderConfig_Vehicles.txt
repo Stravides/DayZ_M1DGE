@@ -27,6 +27,45 @@
     Truck_01_Covered_Blue,	V,		50000,	30000
     Truck_01_Covered_Orange,V,		50000,	30000
 
+	<Category> RaG Vehicles
+		rag_atv_blue,					  V,	  120000,		40000
+		rag_atv_red,					  V,	  120000,		40000
+		rag_atv_green,					  V,	  120000,		40000
+		rag_atv_pink,					  V,	  120000,		40000
+		rag_atv_white,					  V,	  120000,		40000
+		rag_atv_black,					  V,	  120000,		40000
+		rag_baja,					  	  V,	  280000,		120000
+		rag_baja_green,					  V,	  280000,		120000
+		rag_baja_ryg,					  V,	  280000,		120000
+		rag_baja_camo,					  V,	  280000,		120000
+		rag_gaz69,               		  V,    150000,       50000
+		rag_jeep_willys,               	  V,    150000,       50000
+		rag_landrover_110,             	  V,    250000,       100000
+		rag_landrover_110_olive,          V,    250000,       100000
+		rag_landrover_110_grey,           V,    250000,       100000
+		rag_landrover_110_red,            V,    250000,       100000
+		rag_landrover_110_un,             V,    250000,       100000
+		rag_landrover_110_black,          V,    250000,       100000
+		rag_landrover_110_pink,           V,    250000,       100000
+		rag_hummer_Armored,               V,    500000,       250000
+		rag_hummer_olive_Armored,         V,    500000,       250000
+		rag_hummer_tan_Armored,           V,    500000,       250000
+		rag_hummer_camo_Armored,     	  V,    500000,       250000
+		rag_hummer_purple_Armored,        V,    500000,       250000
+		rag_hummer_red_Armored,        	  V,    500000,       250000
+		rag_hummer_winter_Armored,        V,    500000,       250000
+		rag_hummer_anarchy_Armored,       V,    500000,       250000
+		rag_mtvr,                         V,    500000,       250000
+		rag_mtvr_snow,                    V,    500000,       250000
+		rag_zil_130,                      V,    500000,       250000
+		rag_schoolbus,               	  V,    350000,  		150000
+		rag_schoolbus_czech,              V,    350000,  		150000
+		rag_derby_car,					  V,	  400000,		150000
+		rag_derby_car_green,			  V,	  400000,		150000
+		rag_derby_car_red,				  V,	  400000,		150000
+		rag_derby_car_yellow,			  V,	  400000,		150000
+
+
 	<Category> Vehicle Parts
 		HeadlightH7_Box,		*,		30,		15
 		SparkPlug,				*,		60,		40
@@ -183,45 +222,6 @@
         Truck_01_Door_2_1_Orange,			*,		500,	180
         Truck_01_Wheel,						*,		600,	120
         Truck_01_WheelDouble,				*,		1000,	200
-
-	<Category> RaG Vehicles
-		rag_atv_blue,					  V,	  120000,		40000
-		rag_atv_red,					  V,	  120000,		40000
-		rag_atv_green,					  V,	  120000,		40000
-		rag_atv_pink,					  V,	  120000,		40000
-		rag_atv_white,					  V,	  120000,		40000
-		rag_atv_black,					  V,	  120000,		40000
-		rag_baja,					  	  V,	  280000,		120000
-		rag_baja_green,					  V,	  280000,		120000
-		rag_baja_ryg,					  V,	  280000,		120000
-		rag_baja_camo,					  V,	  280000,		120000
-		rag_gaz69,               		  V,    150000,       50000
-		rag_jeep_willys,               	  V,    150000,       50000
-		rag_landrover_110,             	  V,    250000,       100000
-		rag_landrover_110_olive,          V,    250000,       100000
-		rag_landrover_110_grey,           V,    250000,       100000
-    rag_landrover_110_red,            V,    250000,       100000
-		rag_landrover_110_un,             V,    250000,       100000
-		rag_landrover_110_black,          V,    250000,       100000
-		rag_landrover_110_pink,           V,    250000,       100000
-		rag_hummer_Armored,               V,    500000,       250000
-		rag_hummer_olive_Armored,         V,    500000,       250000
-		rag_hummer_tan_Armored,           V,    500000,       250000
-    rag_hummer_camo_Armored,     	  V,    500000,       250000
-		rag_hummer_purple_Armored,        V,    500000,       250000
-		rag_hummer_red_Armored,        	  V,    500000,       250000
-		rag_hummer_winter_Armored,        V,    500000,       250000
-		rag_hummer_anarchy_Armored,       V,    500000,       250000
-		rag_mtvr,                         V,    500000,       250000
-		rag_mtvr_snow,                    V,    500000,       250000
-		rag_zil_130,                      V,    500000,       250000
-		rag_schoolbus,               	  V,    350000,  		150000
-		rag_schoolbus_czech,              V,    350000,  		150000
-		rag_derby_car,					  V,	  400000,		150000
-		rag_derby_car_green,			  V,	  400000,		150000
-		rag_derby_car_red,				  V,	  400000,		150000
-		rag_derby_car_yellow,			  V,	  400000,		150000
-		
 		
 	<Category> RaG MTVR Parts
 		rag_mtvr_door_1_1,         					*,      25000,   -1

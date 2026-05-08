@@ -747,6 +747,7 @@
       <item name="SparkPlug" chance="1.0" />
     </attachments>
   </type>
+  
   <type name="Offroad_02">
     <attachments chance="1.00">
       <item name="Offroad_02_Wheel" chance="0.80" />
