@@ -23,6 +23,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="spawnabletypes_Clothes.xml" type="spawnabletypes" /> 
 		<file name="spawnabletypes_Other.xml" type="spawnabletypes" /> 
 		<file name="spawnabletypes_Vehicles.xml" type="spawnabletypes" /> 
+		<file name="spawnabletypes_RAG_Vehicles.xml" type="spawnabletypes" />
 		<file name="spawnabletypes_Weapons.xml" type="spawnabletypes" /> 
 
 
@@ -61,6 +62,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="events_Animals.xml" type="events" />
 		<file name="events_Loot.xml" type="events" />
 		<file name="events_Vehicles.xml" type="events" />
+		<file name="events_RAG_Vehicles.xml" type="events" />
 		<file name="events_Zombies.xml" type="events" />
 		<file name="events_Other.xml" type="events" />
 <!-- 	MODS -->

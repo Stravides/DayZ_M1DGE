@@ -1,0 +1,1421 @@
+    <type name="rag_derby_car">
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_driverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_codriverdoor" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_derby_car_green">
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_driverdoor_green" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_codriverdoor_green" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_derby_car_red">
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_driverdoor_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_derby_car_codriverdoor_red" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_baja">
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_driverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_codriverdoor" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_baja_camo">
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_driverdoor_camo" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_codriverdoor_camo" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_baja_green">
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_driverdoor_green" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_codriverdoor_green" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_baja_ryg">
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel_big" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_driverdoor_ryg" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_baja_codriverdoor_ryg" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_mtvr">
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_door_1_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_door_1_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_hood" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_cargo1door" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_mtvr_snow">
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_wheel_snow" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_door_snow_1_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_door_snow_1_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_hood_snow" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_mtvr_cargo1door_snow" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_olive_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_olive_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_olive_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_olive_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_olive_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_olive" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_tan_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_tan_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_tan_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_tan_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_tan_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_tan" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_tan" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_purple_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_purple_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_purple_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_purple_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_purple_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_purple" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_purple" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_red_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_red_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_red_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_red_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_red_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_red" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_winter_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_winter_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_winter_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_winter_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_winter_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_winter" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_winter" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_hummer_anarchy_Armored">
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_anarchy_1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_anarchy_2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_anarchy_3" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_door_anarchy_4" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_hood_anarchy" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_hummer_trunk_anarchy" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_schoolbus">
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_hood" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="rag_schoolbus_czech">
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_schoolbus_hood" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+	</type>
+	<type name="rag_jeep_willys">
+		<attachments chance="1.00">
+			<item name="rag_willy_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_willy_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_willy_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_willy_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_willy_hood" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_gaz69">
+		<attachments chance="1.00">
+			<item name="rag_gaz69_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_driverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_codriverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_hood" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_gaz69_trunk" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_atv_blue">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_atv_red">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_atv_green">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_atv_pink">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_atv_white">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_atv_black">
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_atv_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		</type>
+	<type name="rag_landrover_110">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_olive">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_olive" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_olive" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_olive" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_grey">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_grey" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_grey" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_grey" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_grey" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_grey" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_grey" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_grey" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_red">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_red" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_red" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_red" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_black">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_black" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_black" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_black" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_black" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_black" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_black" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_black" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_black" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_black" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_black" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_black" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_pink">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_pink" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_pink" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_pink" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_pink" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_pink" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_pink" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_pink" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_pink" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_pink" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_pink" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_pink" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_landrover_110_gold">
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_gold" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_gold" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_gold" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_gold" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_wheel_gold" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_driverdoor_gold" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_codriverdoor_gold" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_hood_gold" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo1_gold" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo2_gold" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_landrover_110_cargo3_gold" chance="0.55" />
+		</attachments>
+	</type>
+	<type name="rag_zil_130">
+		<attachments chance="1.00">
+			<item name="rag_zil_130_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_wheel" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_wheel_double" chance="0.90" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TruckBattery" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_driverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_codriverdoor" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_hood" chance="0.55" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="rag_zil_130_trunk" chance="0.55" />
+		</attachments>
+	</type>

@@ -129,5 +129,5 @@
       <child lootmax="0" lootmin="0" max="8" min="4" type="Boat_01_Black" />
       <child lootmax="0" lootmin="0" max="8" min="4" type="Boat_01_Camo" />
     </children>
-  </event>
+  </event>  
 </events>

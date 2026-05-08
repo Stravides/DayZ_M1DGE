@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+
+    <!-- Rag Vehicle -->
+    <event name="Vehicleatv">
+        <nominal>10</nominal>
+        <min>7</min>
+        <max>10</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="rag_atv_black"/>
+        </children>
+    </event>
+    <event name="Vehiclebaja">
+        <nominal>11</nominal>
+        <min>5</min>
+        <max>11</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="rag_baja_camo"/>
+        </children>
+    </event>
+    <event name="Vehiclegaz69">
+        <nominal>7</nominal>
+        <min>1</min>
+        <max>7</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="7" min="1" type="rag_gaz69"/>
+        </children>
+    </event>
+	<event name="Vehiclehummer">
+        <nominal>0</nominal>
+        <min>-1</min>
+        <max>-1</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="rag_hummer_Armored"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="MDG_Hummer_RAC"/>
+        </children>
+    </event>
+	<event name="Vehiclejeep">
+        <nominal>2</nominal>
+        <min>1</min>
+        <max>3</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="1" type="rag_jeep_willys"/>
+        </children>
+    </event>
+    <event name="Vehiclemtvr">
+        <nominal>4</nominal>
+        <min>1</min>
+        <max>5</max>
+        <lifetime>3888000 </lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="1" type="rag_mtvr"/>
+        </children>
+    </event>
+</events>
