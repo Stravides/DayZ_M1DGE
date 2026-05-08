@@ -3,6 +3,7 @@
 # Ignore any file named config.json everywhere
 
 # Ignore a folder and all its contents
+_CommonRedist
 addons/
 appcache/
 Backup Files/
@@ -14,6 +15,37 @@ keys/
 logs/
 server_manager/
 steamapps/
+@129_Fix_Item_Drop_After_Login/
+@Carim/
+@CarimMapStyle/
+@CF/
+@Community-Online-Tools/
+@Dabs Framework/
+@DonutsZombies/
+@Ear-Plugs/
+@GraveCross/
+@InCarInventory/
+@M1DGE Tshirts/
+@MDG_Clothing/
+@MDG_Hummers/
+@MDG_Trader/
+@MGT_Trader/
+@MWGSM_Trader/
+@PVEZ Reloaded/
+@PvZmoD_CustomisableZombies/
+@PvZmoD_Spawn_System/
+@RaG_Vehicle_Pack/
+@Trader/
+@Trader Fix Pack/
+@TraderPlus/
+@TraderX/
+@TruckFixV2/
+@UKP_Clothing/
+@VanillaPlusPlusMap/
+@VPPAdminTools/
+@ZomBerry Admin Tools/
+@zSpawnSelection/
+
 
 # Ignore by extension
 *.RPT
@@ -23,3 +55,4 @@ steamapps/
 *.tmp
 *.dll
 *.lck
+*.exe
