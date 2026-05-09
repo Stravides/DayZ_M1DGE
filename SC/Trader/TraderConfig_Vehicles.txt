@@ -1,14 +1,4 @@
 <Trader> Vehicles Trader
-	<Category> M1DGE Vehicles & Parts
-		MDG_Hummer_RAC,                   	VNK,      150000,		15000	
-		rag_hummer_wheel,         					*,      15000,		-1
-		MDG_Hummer_RAC_Door_1,         			*,      25000,		-1
-		MDG_Hummer_RAC_Door_2,         			*,      25000,		-1
-		MDG_Hummer_RAC_Door_3,         			*,      25000,		-1
-		MDG_Hummer_RAC_Door_4,         			*,      25000,		-1
-		MDG_Hummer_RAC_Hood,         				*,      25000,		-1
-		MDG_Hummer_RAC_Trunk,         			*,      25000,		-1
-
 	<Category> Vehicles
 		OffroadHatchback,				VNK,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
 		OffroadHatchback_Blue,	VNK,		14000,	8000
@@ -27,6 +17,16 @@
     Truck_01_Covered_Blue,	VNK,		50000,	30000
     Truck_01_Covered_Orange,VNK,		50000,	30000
 
+	<Category> M1DGE Vehicles & Parts
+		MDG_Hummer_RAC,                   	VNK,      150000,		15000	
+		rag_hummer_wheel,         					*,      15000,		-1
+		MDG_Hummer_RAC_Door_1,         			*,      25000,		-1
+		MDG_Hummer_RAC_Door_2,         			*,      25000,		-1
+		MDG_Hummer_RAC_Door_3,         			*,      25000,		-1
+		MDG_Hummer_RAC_Door_4,         			*,      25000,		-1
+		MDG_Hummer_RAC_Hood,         				*,      25000,		-1
+		MDG_Hummer_RAC_Trunk,         			*,      25000,		-1
+		
 	<Category> RaG Vehicles
 		rag_atv_blue,					  VNK,	  120000,		40000
 		rag_atv_red,					  VNK,	  120000,		40000
