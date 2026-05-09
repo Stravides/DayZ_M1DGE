@@ -1,5 +1,15 @@
 <Trader> Vehicles Trader
-	<Category> Vehicle Keys
+	<Category> Vehicle Keys & Tags
+		MCK_CarKey_Pink,         			*,      150,		-1
+		MCK_CarKey_Purple,       		  *,      150,		-1
+		MCK_CarKey_Yellow,         		*,      150,		-1
+		MCK_CarKey_White,        		 	*,      150,		-1
+		MCK_CarKey_Red,        		 		*,      150,		-1
+		MCK_CarKey_Grey,        		 	*,      150,		-1
+		MCK_CarKey_Green,     	    	*,      150,		-1
+		MCK_CarKey_Blue,    	 	    	*,      150,		-1
+		MCK_CarKey_Black,							*,      150,		-1
+		MCK_CarKey_Base,							*,      150,		-1
 		MCK_CarKeyTag_Pink,         	*,      100,		-1
 		MCK_CarKeyTag_Purple,         *,      100,		-1
 		MCK_CarKeyTag_Yellow,         *,      100,		-1
@@ -9,29 +19,19 @@
 		MCK_CarKeyTag_Green,         	*,      100,		-1
 		MCK_CarKeyTag_Blue,         	*,      100,		-1
 		MCK_CarKeyTag_Black,					*,      100,		-1
-		MCK_CarKeyTag_SarkaYellow,    *,      150,		-1
-		MCK_CarKeyTag_SarkaYRed, 			*,      150,		-1
-		MCK_CarKeyTag_SarkaGrey, 			*,      150,		-1
-		MCK_CarKeyTag_GunterRed,    	*,      150,		-1
-		MCK_CarKeyTag_GunterBlack,    *,      150,		-1
-		MCK_CarKeyTag_GunterBlue,			*,      150,		-1
-		MCK_CarKeyTag_AdaGreen,    		*,      150,		-1
-		MCK_CarKeyTag_AdaWhite,    		*,      150,		-1
-		MCK_CarKeyTag_AdaBlue,				*,      150,		-1
-		MCK_CarKeyTag_OlgaWine,    		*,      150,		-1
-		MCK_CarKeyTag_OlgaWhite,   		*,      150,		-1
-		MCK_CarKeyTag_OlgaBlack,			*,      150,		-1
 		MCK_CarKeyTag_Base,						*,      100,		-1
-		MCK_CarKey_Pink,         			*,      50,		-1
-		MCK_CarKey_Purple,       		  *,      50,		-1
-		MCK_CarKey_Yellow,         		*,      50,		-1
-		MCK_CarKey_White,        		 	*,      50,		-1
-		MCK_CarKey_Red,        		 		*,      50,		-1
-		MCK_CarKey_Grey,        		 	*,      50,		-1
-		MCK_CarKey_Green,     	    	*,      50,		-1
-		MCK_CarKey_Blue,    	 	    	*,      50,		-1
-		MCK_CarKey_Black,							*,      50,		-1
-		MCK_CarKey_Base,							*,      50,		-1
+		MCK_CarKeyTag_SarkaYellow,    *,      100,		-1
+		MCK_CarKeyTag_SarkaRed, 			*,      100,		-1
+		MCK_CarKeyTag_SarkaGrey, 			*,      100,		-1
+		MCK_CarKeyTag_GunterRed,    	*,      100,		-1
+		MCK_CarKeyTag_GunterBlack,    *,      100,		-1
+		MCK_CarKeyTag_GunterBlue,			*,      100,		-1
+		MCK_CarKeyTag_AdaGreen,    		*,      100,		-1
+		MCK_CarKeyTag_AdaWhite,    		*,      100,		-1
+		MCK_CarKeyTag_AdaBlue,				*,      100,		-1
+		MCK_CarKeyTag_OlgaWine,    		*,      100,		-1
+		MCK_CarKeyTag_OlgaWhite,   		*,      100,		-1
+		MCK_CarKeyTag_OlgaBlack,			*,      100,		-1
 
 	<Category> Vehicles
 		OffroadHatchback,				VNK,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
