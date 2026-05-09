@@ -1,0 +1,11 @@
+name = "MuchCarKey";
+picture = "MuchCarKey/data/logo/mck_logo.edds";
+logo = "MuchCarKey/data/logo/mck_logo.edds";
+logoSmall = "MuchCarKey/data/logo/mck_logo.edds";
+logoOver = "MuchCarKey/data/logo/mck_logo.edds";
+overview = "A vehicle locking mechanic. Use keys to lock your vehicle.";
+tooltip = "A vehicle locking mechanic. Use keys to lock your vehicle.";
+action = "https://discord.gg/AgRSUVmFga";
+author = "Helkhiana";
+authorID = "76561198008668429";
+version = "1.0";
