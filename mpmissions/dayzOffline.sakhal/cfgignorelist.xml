@@ -48,5 +48,5 @@
 	<type name="rag_hummer_Armored" />
 	<type name="MDG_Hummer_RAC" />
 	<type name="rag_jeep_willys" />
- --><type name="rag_mtvr" />
+	<type name="rag_mtvr" /> -->
 </ignore>
