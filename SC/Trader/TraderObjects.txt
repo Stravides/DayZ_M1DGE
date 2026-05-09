@@ -188,5 +188,14 @@
 <ObjectPosition> 7228.0205078125, 5.1199564933776859, 7073.3955078125
 <ObjectOrientation> 76.92, 0, 0
 
+<Object> StaticObj_Misc_Table_Market
+<ObjectPosition> 7229.930176, 3.159850, 7059.430176
+<ObjectOrientation> 80.803329, 0.065647, 2.809633
+
+<Object> MCK_KeyGrinder
+<ObjectPosition> 7229.740234, 3.817260, 7060.180176
+<ObjectOrientation> 90.989784, 0.000000, -0.000000
+
+
 //<OpenFile> SpawnItems.txt
 <FileEnd>												// This has to be on the End of this File and is very importand!

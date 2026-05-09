@@ -1,4 +1,38 @@
 <Trader> Vehicles Trader
+	<Category> Vehicle Keys
+		MCK_CarKeyTag_Pink,         	*,      100,		-1
+		MCK_CarKeyTag_Purple,         *,      100,		-1
+		MCK_CarKeyTag_Yellow,         *,      100,		-1
+		MCK_CarKeyTag_White,         	*,      100,		-1
+		MCK_CarKeyTag_Red,         		*,      100,		-1
+		MCK_CarKeyTag_Grey,         	*,      100,		-1
+		MCK_CarKeyTag_Green,         	*,      100,		-1
+		MCK_CarKeyTag_Blue,         	*,      100,		-1
+		MCK_CarKeyTag_Black,					*,      100,		-1
+		MCK_CarKeyTag_SarkaYellow,    *,      150,		-1
+		MCK_CarKeyTag_SarkaYRed, 			*,      150,		-1
+		MCK_CarKeyTag_SarkaGrey, 			*,      150,		-1
+		MCK_CarKeyTag_GunterRed,    	*,      150,		-1
+		MCK_CarKeyTag_GunterBlack,    *,      150,		-1
+		MCK_CarKeyTag_GunterBlue,			*,      150,		-1
+		MCK_CarKeyTag_AdaGreen,    		*,      150,		-1
+		MCK_CarKeyTag_AdaWhite,    		*,      150,		-1
+		MCK_CarKeyTag_AdaBlue,				*,      150,		-1
+		MCK_CarKeyTag_OlgaWine,    		*,      150,		-1
+		MCK_CarKeyTag_OlgaWhite,   		*,      150,		-1
+		MCK_CarKeyTag_OlgaBlack,			*,      150,		-1
+		MCK_CarKeyTag_Base,						*,      100,		-1
+		MCK_CarKey_Pink,         			*,      50,		-1
+		MCK_CarKey_Purple,       		  *,      50,		-1
+		MCK_CarKey_Yellow,         		*,      50,		-1
+		MCK_CarKey_White,        		 	*,      50,		-1
+		MCK_CarKey_Red,        		 		*,      50,		-1
+		MCK_CarKey_Grey,        		 	*,      50,		-1
+		MCK_CarKey_Green,     	    	*,      50,		-1
+		MCK_CarKey_Blue,    	 	    	*,      50,		-1
+		MCK_CarKey_Black,							*,      50,		-1
+		MCK_CarKey_Base,							*,      50,		-1
+
 	<Category> Vehicles
 		OffroadHatchback,				VNK,		14000,	8000	// Use VNK instead of V as Quantity to not give a Vehicle Key when bought.
 		OffroadHatchback_Blue,	VNK,		14000,	8000
@@ -402,8 +436,6 @@
 		rag_derby_car_wheel,         				*,      25000,   -1
 
 	<Category> Other
-		VehicleKeyDuplicate,	K,		2000,	-1 		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
-		VehicleKeyLost,    		KL,    	5000,   -1		// The choosen Classname here only gets displayed in the UI (Name/Description); Make Sure SellValue is set to -1
 		CanisterGasoline,		*,		300,	80
 		SparkPlug,				*,		60,		40
 
