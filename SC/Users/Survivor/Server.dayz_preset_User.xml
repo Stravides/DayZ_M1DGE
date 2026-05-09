@@ -1148,26 +1148,4 @@
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />
         <limit name="deadzone" value="0.000000" />
-        <sensitivity name="vert" value="1.000000" />
-        <sensitivity name="horz" value="1.000000" />
-        <sensitivity name="curv" value="1.000000" />
-        <sensitivity name="lvert" value="1.000000" />
-        <sensitivity name="lhorz" value="1.000000" />
-        <sensitivity name="lcurv" value="1.000000" />
-        <sensitivity name="rvert" value="1.000000" />
-        <sensitivity name="rhorz" value="1.000000" />
-        <sensitivity name="rcurv" value="1.000000" />
-        <sensitivity name="ldeadzone" value="1.000000" />
-        <sensitivity name="rdeadzone" value="1.000000" />
-    </controller>
-    <modificator name="aiming">
-        <sensitivity name="vert" value="1.000000" />
-        <sensitivity name="horz" value="1.000000" />
-        <sensitivity name="rvert" value="1.250000" />
-        <sensitivity name="rhorz" value="1.250000" />
-        <sensitivity name="rcurv" value="0.500000" />
-    </modificator>
-    <modificator name="vehicle">
-        <sensitivity name="lhorz" value="1.000000" />
-    </modificator>
-</preset>
+        <sensitivity name="vert" 
