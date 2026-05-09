@@ -5,10 +5,8 @@
 		MCK_CarKey_Yellow,         		*,      150,		-1
 		MCK_CarKey_White,        		 	*,      150,		-1
 		MCK_CarKey_Red,        		 		*,      150,		-1
-		MCK_CarKey_Grey,        		 	*,      150,		-1
 		MCK_CarKey_Green,     	    	*,      150,		-1
 		MCK_CarKey_Blue,    	 	    	*,      150,		-1
-		MCK_CarKey_Black,							*,      150,		-1
 		MCK_CarKey_Base,							*,      150,		-1
 		MCK_CarKeyTag_Pink,         	*,      100,		-1
 		MCK_CarKeyTag_Purple,         *,      100,		-1
