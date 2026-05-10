@@ -147,6 +147,7 @@
 
 <Trader> Misc Trader
 	<Category> Tools (small)
+		RaG_BB_Book,			*,		100,	-1
 		Screwdriver,			*,		3,		1
 		Wrench,					*,		3,		1
 		SewingKit,				*,		4, 		1
