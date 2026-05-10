@@ -24,9 +24,9 @@
 	</type>
 	
 	<type name="Zombies_Caracteristics">
-        <Zombies_Health_Ratio		Day	= "1"	Night = "1.0"/>	<!-- [Decimal 0.0 to infinite] -->
-        <Zombies_Strength_Ratio		Day	= "1"	Night = "1.0"/> <!-- Except the bleeding chance [Decimal 0.0 to infinite] -->
-        <Zombies_Speed_Ratio		Day	= "1"	Night = "1"/> <!-- [Decimal 0.0 to infinite]-->
+        <Zombies_Health_Ratio		Day	= "0.5"	Night = "0.5"/>	<!-- [Decimal 0.0 to infinite] -->
+        <Zombies_Strength_Ratio		Day	= "0.75"	Night = "0.75"/> <!-- Except the bleeding chance [Decimal 0.0 to infinite] -->
+        <Zombies_Speed_Ratio		Day	= "0.75"	Night = "0.75"/> <!-- [Decimal 0.0 to infinite]-->
 	</type>
 	
     <type name="Players_Caracteristics">
