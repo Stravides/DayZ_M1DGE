@@ -64,8 +64,8 @@
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": false,
-			"disableIsCollidingPlayerCheck": false,
+			"disableIsCollidingBBoxCheck": true,
+			"disableIsCollidingPlayerCheck": true,
 			"disableIsClippingRoofCheck": false,
 			"disableIsBaseViableCheck": false,
 			"disableIsCollidingGPlotCheck": false,

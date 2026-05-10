@@ -1191,6 +1191,27 @@
     <input name="UAToggleInvis">
         <btn name="kI" />
     </input>
+    <input name="UAToggleSnapping">
+        <btn name="kDown" />
+    </input>
+    <input name="UAToggleRotate">
+        <btn name="kUp" />
+    </input>
+    <input name="UACycleSnapPoints">
+        <btn name="kRight" />
+    </input>
+    <input name="UAMoveHoloUp">
+        <btn name="kPrior" />
+    </input>
+    <input name="UAMoveHoloDown">
+        <btn name="kNext" />
+    </input>
+    <input name="UANextPreview">
+        <btn name="kUp" />
+    </input>
+    <input name="UALastPreview">
+        <btn name="kDown" />
+    </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />
