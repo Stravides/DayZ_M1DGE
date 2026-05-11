@@ -192,7 +192,7 @@
 		Broom,					*,		6,		3
 		Broom_Birch,			*,		6,		3
 		Pickaxe,				*,		10,		4
-		Iceaxe,				*,		10,		4
+		Iceaxe,					*,		10,		4
 		SledgeHammer,			*,		12,		6
 		PipeWrench,				W,		15,		7
 		WoodAxe,				*,		20,		8
