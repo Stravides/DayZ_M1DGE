@@ -2,9 +2,9 @@
 
 // ------------------------------------------------------   Extra Firebins   -------------------------------------------------------
 
-<Object>			BarrelHoles_Red						//Kumyrna Firebin
-<ObjectPosition>	7235.65, 	2.66, 7066.94
-<ObjectOrientation>	0,			0,			0
+//<Object>			BarrelHoles_Red						//Kumyrna Firebin
+//<ObjectPosition>	7235.65, 	2.66, 7066.94
+//<ObjectOrientation>	0,			0,			0
 
 
 
