@@ -1,0 +1,10 @@
+name = "Zenarchist's Core Mod"; // name
+picture = ""; // picture in expanded description
+logoSmall = ""; // icon next to mod name when description is not expanded
+logo = ""; // logo below game menu
+logoOver = ""; // on mouse hover over logo
+tooltip = "Zenarchist's Core Mod"; // tool tip on mouse hover
+overview = "Manages the core features for my common mod structures."; // overview
+action = "https://zenarchist.com/"; // link
+author = "Zenarchist"; // author
+version = "1.0"; // version

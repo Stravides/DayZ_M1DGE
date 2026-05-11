@@ -1,0 +1,10 @@
+name = "Zenarchist's Music Mod"; // name
+picture = ""; // picture in expanded description
+logoSmall = ""; // icon next to mod name when description is not expanded
+logo = ""; // logo below game menu
+logoOver = ""; // on mouse hover over logo
+tooltip = "Zenarchist's Music Mod"; // tool tip on mouse hover
+overview = "Adds music cassettes and the ability to play them using music devices and in vehicles."; // overview
+action = "https://zenarchist.io/"; // link
+author = "Zenarchist"; // author
+version = "1.0"; // version
