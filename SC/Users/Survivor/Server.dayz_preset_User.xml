@@ -1212,6 +1212,15 @@
     <input name="UALastPreview">
         <btn name="kDown" />
     </input>
+    <input name="UAZenMusic">
+        <btn name="kK" />
+    </input>
+    <input name="UAZenMusicUp">
+        <btn name="kAdd" />
+    </input>
+    <input name="UAZenMusicDn">
+        <btn name="kSubstract" />
+    </input>
     <controller name="PCKeyboard">
         <limit name="doubleclick" value="0.500000" />
         <limit name="hold" value="0.330000" />
