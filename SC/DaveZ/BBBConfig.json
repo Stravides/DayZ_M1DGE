@@ -1,0 +1,23 @@
+{
+  "Version": "0.51",
+	"BarrelUpdateTime": 1,
+	"DebugBarrels": 0,
+	"DebugWeather": 600,
+	"DebugYAY": 600,
+    "BarrelLocations": [
+    {
+			"Name": "B0_RED",
+			"Colour":"Red",
+			"OnPlayerProximity":5,
+            "Open": 1,
+            "position": [7236.71, 2.68498, 7067.14]
+		},
+    {
+			"Name": "B1_RED",
+			"Colour":"Red",
+			"OnPlayerProximity":5,
+            "Open": 1,
+            "position": [5251.78,9.96566, 9031.38]
+		}
+    ]
+}
