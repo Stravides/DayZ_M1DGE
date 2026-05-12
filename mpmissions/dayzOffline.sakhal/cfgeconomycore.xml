@@ -61,7 +61,6 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="types_MMG_Storage.xml" type="types" />
 		<file name="types_Zen_Music.xml" type="types" />
 		<file name="types_MDG_Music.xml" type="types" />
-		<file name="types_MDG_TraderBarrels.xml" type="types" />
 		
 		<file name="types_vanilla_suppressors.xml" type="types" />
 		
@@ -84,6 +83,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 --> 
 
 <!--    REMOVED MODS
+		<file name="types_MDG_TraderBarrels.xml" type="types" />
 
  -->
 
