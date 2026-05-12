@@ -108,3 +108,6 @@ Logs Started: 2026-5-12_15-17-22
 15:38:58 | "Stravides" (steamid=76561198015455963) updated building set (NewSet)
 15:38:58 | [BuildingSetManager] Deleted file: NewSet
 15:38:58 | [BuildingSetManager] Saved: $profile:VPPAdminTools/ConfigurablePlugins/BuildingSetManager/NewSet.vpp
+16:22:32 | Player "Stravides" (steamId=76561198015455963) initiated disconnect process...
+16:22:35 | Player "Stravides" (steamId=76561198015455963) disconnected early from server (EXIT NOW).
+16:22:37 | Player "Stravides" (steamId=76561198015455963) disconnected from server.
