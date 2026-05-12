@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="rag_hummer_Armored">
+    <type name="Donuts_NBC">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11,9 +11,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_olive_Armored">
+    <type name="Donuts_NBCI">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -22,9 +22,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_tan_Armored">
+    <type name="Donuts_Zmb_usSoldierIII">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -33,9 +33,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_camo_Armored">
+    <type name="Donuts_Zmb_usSoldierIV">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -44,9 +44,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_purple_Armored">
+    <type name="Donuts_soldier_normalIV">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -55,9 +55,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_red_Armored">
+    <type name="Donuts_soldier_normalVI">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -66,9 +66,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_winter_Armored">
+    <type name="Donuts_soldier_normalV">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -77,9 +77,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_anarchy_Armored">
+    <type name="Donuts_soldier_normalIII">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -88,9 +88,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_gold_Armored">
+    <type name="Donuts_Armyofficer_No_Arms">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -99,664 +99,708 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_hummer_door_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_olive_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_olive_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_olive_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_olive_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_olive">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_olive">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_tan_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_tan_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_tan_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_tan_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_tan">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_tan">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_camo_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_camo_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_camo_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_camo_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_camo">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_camo">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_purple_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_purple_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_purple_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_purple_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_purple">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_purple">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_red_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_red_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_red_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_red_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_red">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_red">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_winter_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_winter_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_winter_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_winter_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_winter">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_winter">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_anarchy_1">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_anarchy_2">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_anarchy_3">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_anarchy_4">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_hood_anarchy">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_trunk_anarchy">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
-    </type>
-    <type name="rag_hummer_door_gold_1">
+    <type name="Donuts_Clerk">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_door_gold_2">
+    <type name="Donuts_Zmb_Clerk">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_door_gold_3">
+    <type name="Donuts_Ritual">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_door_gold_4">
+    <type name="Donuts_CitizenF">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_hood_gold">
+    <type name="Donuts_CitizenFI">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_trunk_gold">
+    <type name="Donuts_Zmb_CitizenIII">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_hummer_wheel">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="Donuts_Zmb_CitizenIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_journalist">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_journalistII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_journalistIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Clown">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_ClownII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Devol">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Bluecollar_No_Legs">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_Constru">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_ConstruII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_ConstruIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Firefighter_No_Legs">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Firefighter_Ritual">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_FireFight">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_FireFightI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_DoctorF">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_DoctorFI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_doctorIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_Doctor_No_Arms">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_Doctor_No_Arms2">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_Doctor_No_Legs">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_Chef">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_ParamedicIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_ParamedicIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_paramedicIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_paramedicIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_paramedicV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policemanV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policemanIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policewomanIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policemanIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policewomanIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_policewomanV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_Padre">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_PadreI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_PadreII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_fishermanIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Fisherman_Ritual">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_hermitIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_HunterI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Farmer_Ritual">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_FarmerI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_jogger">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_joggerII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_OldMan">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_OldManI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_OldManII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbM_ChefNoTshirt">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbF_MilkMaidOld">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbF_MilkMaidOldI">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbF_MilkMaidOldII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_ZmbF_MilkMaidOldIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_farmerIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="ZmbM_FaDonuts_farmerIIIrmerFat_Blue">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_HikerIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_CoverallsIII">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_CoverallsIV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="Donuts_Zmb_CoverallsV">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
     </type>
 </types>

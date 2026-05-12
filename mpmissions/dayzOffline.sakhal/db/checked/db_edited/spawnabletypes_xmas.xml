@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="rag_derby_car">
+    <type name="GiftBox_Small_1">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -11,10 +11,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_green">
+    <type name="GiftBox_Small_2">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -22,10 +22,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_red">
+    <type name="GiftBox_Small_3">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -33,10 +33,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_yellow">
+    <type name="GiftBox_Small_4">
         <nominal>0</nominal>
-        <lifetime>1209600</lifetime>
-        <restock>600</restock>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -44,112 +44,136 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_driverdoor">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Medium_1">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_driverdoor_green">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Medium_2">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_driverdoor_red">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Medium_3">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_driverdoor_yellow">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Medium_4">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_codriverdoor">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Large_1">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_codriverdoor_green">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Large_2">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_codriverdoor_red">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Large_3">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_codriverdoor_yellow">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftBox_Large_4">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
     </type>
-    <type name="rag_derby_car_wheel">
-        <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>600</restock>
+    <type name="GiftWrapPaper">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="tools"/>
-        <usage name="Industrial"/>
+        <category name="unknown"/>
+    </type>
+    <type name="ChristmasHeadband_Antlers">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="ChristmasHeadband_Trees">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
+    </type>
+    <type name="ChristmasHeadband_Gingerbread">
+        <nominal>0</nominal>
+        <lifetime>0</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="unknown"/>
     </type>
 </types>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-    <type name="Animal_CapraHircusF">
+    <type name="Barrel_Blue">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -11,9 +11,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapraHircus_Black">
+    <type name="Barrel_Green">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -22,9 +22,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapraHircus_Brown">
+    <type name="Barrel_Red">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -33,9 +33,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapraHircus_Spooky">
+    <type name="Barrel_Yellow">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -44,9 +44,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapraHircus_White">
+    <type name="CarTent">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -55,9 +55,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapreolusCapreolus">
+    <type name="LargeTent">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -66,9 +66,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CapreolusCapreolusF">
+    <type name="MediumTent">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -77,9 +77,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurusF_Brown">
+    <type name="MediumTent_Green">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -88,9 +88,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurusF_Spotted">
+    <type name="MediumTent_Orange">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -99,9 +99,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurusF_White">
+    <type name="PartyTent">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -110,9 +110,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurus_Brown">
+    <type name="PartyTent_Blue">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -121,9 +121,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurus_Spotted">
+    <type name="PartyTent_Brown">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -132,9 +132,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_BosTaurus_White">
+    <type name="PartyTent_Lunapark">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -143,9 +143,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CanisLupus_Grey">
+    <type name="SeaChest">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -154,9 +154,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CanisLupus_White">
+    <type name="BandageDressing">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -165,9 +165,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CervusElaphus">
+    <type name="PlateCarrierVest">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -176,9 +176,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_CervusElaphusF">
+    <type name="PlateCarrierVest_Winter">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -187,9 +187,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_GallusGallusDomesticus">
+    <type name="PlateCarrierVest_Black">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -198,9 +198,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_GallusGallusDomesticusF_Brown">
+    <type name="PlateCarrierVest_Green">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -209,9 +209,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_GallusGallusDomesticusF_Spotted">
+    <type name="Stone">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -220,9 +220,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_GallusGallusDomesticusF_White">
+    <type name="FilteringBottle">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -231,9 +231,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_LepusEuropaeus">
+    <type name="SmallStone">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -242,9 +242,9 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_OvisAries">
+    <type name="Ammo_40mm_Explosive">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -253,158 +253,15 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="unknown"/>
     </type>
-    <type name="Animal_OvisAriesF">
+    <type name="Ammo_40mm_POX">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>0</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_RangiferTarandus">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_RangiferTarandusF">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_RangiferTarandus_Xmas">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_SusDomesticus">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_SusScrofa">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_UrsusArctos">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="Animal_VulpesVulpes">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadChicken_Brown">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadChicken_Spotted">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadChicken_White">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadFox">
-        <nominal>0</nominal>
-        <lifetime>1800</lifetime>
-        <restock>0</restock>
-        <min>0</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadRabbit">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="unknown"/>
-    </type>
-    <type name="DeadRooster">
-        <nominal>0</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         <category name="unknown"/>
     </type>
 </types>
