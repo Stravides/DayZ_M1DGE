@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<type name="Zen_CassetteCase">
-        <nominal>20</nominal>
-        <lifetime>604800</lifetime>
-        <restock>1600</restock>
-        <min>10</min>
+    <type name="Zen_CassetteCase">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15,11 +15,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_BoomBox">
-        <nominal>20</nominal>
-        <lifetime>604800</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+    <type name="Zen_BoomBox">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -30,15 +30,22 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_BoomBox_Static">
+    <type name="Zen_BoomBox_Static">
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <category name="unknown"/>
     </type>
-	<type name="Zen_Walkman">
-        <nominal>20</nominal>
-        <lifetime>14400</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+    <type name="Zen_Walkman">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -49,11 +56,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen1">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen1">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -64,11 +71,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen2">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen2">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -79,11 +86,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen3">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen3">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -94,11 +101,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen4">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen4">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -109,11 +116,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen5">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen5">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -124,11 +131,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen6">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen6">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -139,11 +146,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen7">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen7">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -154,11 +161,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen8">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen8">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -169,11 +176,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen9">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen9">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -184,11 +191,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen11">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen11">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -199,11 +206,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen12">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen12">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -214,11 +221,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen13">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen13">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -229,11 +236,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen14">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen14">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -244,11 +251,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen15">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen15">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -259,11 +266,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-		<type name="Zen_Cassette_Zen16">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen16">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -274,11 +281,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen17">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen17">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -289,11 +296,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen18">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen18">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -304,11 +311,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen19">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen19">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -319,11 +326,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen20">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen20">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -334,11 +341,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen21">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen21">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -349,11 +356,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen22">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen22">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -364,11 +371,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen23">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen23">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -379,11 +386,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen24">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen24">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -394,11 +401,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen25">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen25">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -409,11 +416,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Zen26">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Zen26">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -424,12 +431,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<!-- Classical music -->
-	<type name="Zen_Cassette_Classical1">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical1">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -440,11 +446,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical2">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical2">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -455,11 +461,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical3">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical3">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -470,11 +476,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical4">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical4">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -485,11 +491,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical5">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical5">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -500,11 +506,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical6">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical6">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -515,11 +521,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical7">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical7">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -530,11 +536,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical8">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical8">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -545,11 +551,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Classical9">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Classical9">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -560,12 +566,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<!-- Alan Watts -->
-	<type name="Zen_Cassette_Alan1">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan1">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -576,11 +581,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan2">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan2">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -591,11 +596,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan3">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan3">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -606,11 +611,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan4">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan4">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -621,11 +626,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan5">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan5">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -636,11 +641,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan6">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan6">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -651,11 +656,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan7">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan7">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -666,11 +671,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan8">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan8">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -681,11 +686,11 @@
         <usage name="Village"/>
         <usage name="School"/>
     </type>
-	<type name="Zen_Cassette_Alan9">
-        <nominal>1</nominal>
-        <lifetime>21600</lifetime>
-        <restock>7200</restock>
-        <min>1</min>
+    <type name="Zen_Cassette_Alan9">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

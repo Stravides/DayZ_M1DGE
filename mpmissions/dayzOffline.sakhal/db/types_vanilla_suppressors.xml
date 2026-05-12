@@ -1,100 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
-	<type name="Ki_Suppressor_FaL">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_FaL_covered">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_SkS">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_SkS_covered">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_Mosin">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_Mosin_covered">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
-	<type name="Ki_Suppressor_Saiga">
-		<nominal>0</nominal>
-		<lifetime>7776000</lifetime>
-		<restock>0</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<usage name="Industrial" />
-		<tag name="floor" />
-		<!-- <value name="Tier1" /> -->
-	</type>
+    <type name="Ki_Suppressor_FaL">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_FaL_covered">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_SkS">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_SkS_covered">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_Mosin">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_Mosin_covered">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="Ki_Suppressor_Saiga">
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+    </type>
 </types>
