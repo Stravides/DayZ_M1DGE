@@ -2,9 +2,9 @@
 <types>
     <type name="ConstructionHelmet_Lime">
         <nominal>20</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>6</min>
+        <lifetime>3600</lifetime>
+        <restock>900</restock>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15,9 +15,9 @@
     </type>
     <type name="DarkMotoHelmet_Lime">
         <nominal>20</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>6</min>
+        <lifetime>3600</lifetime>
+        <restock>900</restock>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -30,10 +30,10 @@
         <value name="Tier3"/>
     </type>
     <type name="GardenLime">
-        <nominal>15</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>5</min>
+        <nominal>25</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -76,9 +76,9 @@
     </type>
     <type name="MotoHelmet_Lime">
         <nominal>20</nominal>
-        <lifetime>7200</lifetime>
-        <restock>1800</restock>
-        <min>6</min>
+        <lifetime>3600</lifetime>
+        <restock>900</restock>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -169,10 +169,10 @@
         <category name="unknown"/>
     </type>
     <type name="ZucchiniSeedsPack">
-        <nominal>25</nominal>
-        <lifetime>4500</lifetime>
-        <restock>900</restock>
-        <min>8</min>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -192,10 +192,10 @@
         <category name="unknown"/>
     </type>
     <type name="PepperSeedsPack">
-        <nominal>25</nominal>
-        <lifetime>4500</lifetime>
-        <restock>900</restock>
-        <min>8</min>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -204,10 +204,10 @@
         <usage name="Farm"/>
     </type>
     <type name="PotatoSeed">
-        <nominal>25</nominal>
-        <lifetime>4500</lifetime>
-        <restock>900</restock>
-        <min>8</min>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -228,10 +228,10 @@
         <category name="unknown"/>
     </type>
     <type name="PumpkinSeedsPack">
-        <nominal>25</nominal>
-        <lifetime>4500</lifetime>
-        <restock>900</restock>
-        <min>8</min>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -251,10 +251,10 @@
         <category name="unknown"/>
     </type>
     <type name="TomatoSeedsPack">
-        <nominal>25</nominal>
-        <lifetime>4500</lifetime>
-        <restock>900</restock>
-        <min>8</min>
+        <nominal>30</nominal>
+        <lifetime>3600</lifetime>
+        <restock>600</restock>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

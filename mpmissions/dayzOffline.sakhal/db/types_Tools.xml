@@ -264,9 +264,9 @@
     </type>
     <type name="ClaymoreMine">
         <nominal>6</nominal>
-        <lifetime>21600</lifetime>
-        <restock>14400</restock>
-        <min>-1</min>
+        <lifetime>14400</lifetime>
+        <restock>3600</restock>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1248,7 +1248,7 @@
     </type>
     <type name="Paper">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>30</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="mmg_craftable_tent_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -25,10 +25,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_crate04_olive">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -38,10 +38,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_crate04_black">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -51,10 +51,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_crate04_blue">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -64,10 +64,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_crate04_yellow">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -77,10 +77,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_crate04_red">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -90,10 +90,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_grenade_case_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -103,10 +103,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_supplycrate_level1">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -116,10 +116,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_supplycrate_level2">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -129,10 +129,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_supplycrate_level3">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -142,10 +142,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_equipment_locker_green_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -166,10 +166,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_equipment_locker_black_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -190,10 +190,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_equipment_locker_grey_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -214,10 +214,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_armored_cabinet_grey">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -227,10 +227,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_armored_cabinet_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -240,10 +240,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_armored_cabinet_rusty">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -253,10 +253,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_locker02_blue_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -277,10 +277,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_locker02_green_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -301,10 +301,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_locker02_tan_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -325,10 +325,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_old_safe_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -339,10 +339,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_old_safe_grey">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -353,10 +353,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_gun_rack_kit_blue">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -377,10 +377,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_gun_rack_kit_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -401,10 +401,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_gun_rack_kit_tan">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -425,10 +425,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_gun_rack_planks">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -450,10 +450,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_lockable_gun_rack_kit_grey">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -474,10 +474,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_gun_wall_kit_wooden">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -499,10 +499,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_gun_wall_kit_metal">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -524,10 +524,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_army_box_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -536,10 +536,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_army_box_medic">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -549,10 +549,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_army_box_medic_grey">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -562,10 +562,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_military_case_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -575,10 +575,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_weapon_crate_wood">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -589,10 +589,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_palette_storage_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -602,10 +602,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_palette_storage">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -616,10 +616,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_fridge_kit_beige">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -640,10 +640,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_fridge_kit_blue">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -664,10 +664,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_toolwagon_red">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -677,10 +677,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_trashcan_red">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -688,10 +688,10 @@
         <category name="tools"/>
     </type>
     <type name="mmg_trashcan_yellow">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -699,10 +699,10 @@
         <category name="tools"/>
     </type>
     <type name="mmg_trashcan_green">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -710,10 +710,10 @@
         <category name="tools"/>
     </type>
     <type name="mmg_trashcontainer_green_static">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -723,10 +723,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_trashcontainer_orange_static">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -736,10 +736,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_gear_stand_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -750,10 +750,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_gear_stand">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -764,10 +764,10 @@
         <usage name="Military"/>
     </type>
     <type name="mmg_planter_box_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -811,10 +811,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_old_table">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -825,10 +825,10 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_wall_shelf_wood">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -861,10 +861,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_yellow_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -885,10 +885,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_blue_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -909,10 +909,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_red_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -933,10 +933,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_grey_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -957,10 +957,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_purple_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -981,10 +981,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_green_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1005,10 +1005,10 @@
         <category name="unknown"/>
     </type>
     <type name="mmg_solo_locker_medic_kit">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>15</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

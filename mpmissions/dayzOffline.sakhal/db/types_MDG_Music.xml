@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <types>
     <type name="MDG_Cassette_Song1">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -16,10 +16,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song2">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -31,10 +31,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song3">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -46,10 +46,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song4">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -61,10 +61,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song5">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -76,10 +76,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song6">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -91,10 +91,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song7">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -106,10 +106,10 @@
         <usage name="School"/>
     </type>
     <type name="MDG_Cassette_Song8">
-        <nominal>6</nominal>
-        <lifetime>14400</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <nominal>20</nominal>
+        <lifetime>604800</lifetime>
+        <restock>1600</restock>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

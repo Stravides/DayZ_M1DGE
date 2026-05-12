@@ -15,7 +15,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-	<type name="DarkMotoHelmet_Lime">
+    <type name="DarkMotoHelmet_Lime">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
         <restock>1800</restock>
