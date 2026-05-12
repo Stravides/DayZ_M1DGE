@@ -104,3 +104,13 @@ Logs Started: 2026-5-11_23-30-11
 23:37:33 | Player "Stravides" (steamId=76561198015455963) initiated disconnect process...
 23:37:35 | Player "Stravides" (steamId=76561198015455963) disconnected early from server (EXIT NOW).
 23:37:38 | Player "Stravides" (steamId=76561198015455963) disconnected from server.
+12:29:54 | Player "CORV" (steamId=76561198029593764) connected to server!
+12:42:23 | Player "Stravides" (steamId=76561198015455963) connected to server!
+12:44:48 | Player "Stravides" (steamId=76561198015455963) initiated disconnect process...
+12:44:53 | Player "Stravides" (steamId=76561198015455963) disconnected from server.
+12:46:23 | Player "CORV" (steamId=76561198029593764) initiated disconnect process...
+12:46:25 | Player "Stravides" (steamId=76561198015455963) connected to server!
+12:46:28 | Player "CORV" (steamId=76561198029593764) disconnected from server.
+12:46:36 | Player "Stravides" (steamId=76561198015455963) initiated disconnect process...
+12:46:39 | Player "Stravides" (steamId=76561198015455963) disconnected early from server (EXIT NOW).
+12:46:41 | Player "Stravides" (steamId=76561198015455963) disconnected from server.
