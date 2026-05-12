@@ -8,14 +8,14 @@
     {
 			"Name": "B0_RED",
 			"Colour":"Red",
-			"OnPlayerProximity":5,
+			"OnPlayerProximity":10,
             "Open": 1,
             "position": [7236.71, 2.68498, 7067.14]
 		},
     {
 			"Name": "B1_RED",
 			"Colour":"Red",
-			"OnPlayerProximity":5,
+			"OnPlayerProximity":10,
             "Open": 1,
             "position": [5251.78,9.96566, 9031.38]
 		}
