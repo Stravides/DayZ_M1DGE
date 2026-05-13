@@ -104,3 +104,6 @@ Logs Started: 2026-5-12_20-2-47
 20:4:30 | Player "CORV" (steamId=76561198029593764) connected to server!
 20:19:6 | Player "CORV" (steamId=76561198029593764) initiated disconnect process...
 20:19:11 | Player "CORV" (steamId=76561198029593764) disconnected from server.
+20:39:23 | Player "Stravides" (steamId=76561198015455963) initiated disconnect process...
+20:39:25 | Player "Stravides" (steamId=76561198015455963) disconnected early from server (EXIT NOW).
+20:39:28 | Player "Stravides" (steamId=76561198015455963) disconnected from server.
