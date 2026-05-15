@@ -19,7 +19,7 @@
     </type>
     <type name="mmg_crate04_olive">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -277,7 +277,7 @@
     </type>
     <type name="mmg_old_safe_green">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -291,7 +291,7 @@
     </type>
     <type name="mmg_old_safe_grey">
         <nominal>2</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -688,7 +688,7 @@
     </type>
 	<type name="mmg_old_table">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -702,7 +702,7 @@
     </type>
 	<type name="mmg_wall_shelf_wood">
         <nominal>5</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -715,11 +715,11 @@
         <usage name="Farm"/>
     </type>
     <type name="mmg_supply_crate_unfinished_wood">
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
     <type name="mmg_supply_crate_unfinished_grey">
-        <lifetime>14400</lifetime>
+        <lifetime>864000</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
     </type>
 	<type name="mmg_solo_locker_yellow_kit">
